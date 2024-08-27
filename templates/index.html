@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Subsidiaries and Domain Search</title>
+    <style>
+        /* Add some basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+            transition: background-color 1s;
+        }
+        form {
+            margin-bottom: 1em;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        #company_name {
+            width: 50%;
+            padding: 10px;
+            margin-bottom: 10px;
+            transition: width 2s;
+        }
+        #company_name:focus {
+            width: 70%;
+        }
+        #results {
+            width: 70%;
+            margin: auto;
+            padding: 10px;
+            border: 1px solid #000;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Company Subsidiaries and Domain Search Agent</h1>
+    <form id="search-form">
+        <label for="company_name">Company Name:</label>
+        <input type="text" id="company_name" name="company_name">
+        <input type="submit" value="Search">
+    </form>
+    <div id="results"></div>
+
+    <script>
+        document.getElementById('search-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var companyName = document.getElementById('company_name').value;
+            fetch('http://localhost:8000/search_company', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({company_name: companyName})
+            })
+            .then(response => response.json())
+            .then(data => {
+                var resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = '';
+                var companyNameHeader = document.createElement('h2');
+                companyNameHeader.innerText = 'Company Name: ' + data.company_name;
+                var resultsHeader = document.createElement('h2');
+                resultsHeader.innerText = 'Results:';
+                var resultsPre = document.createElement('pre');
+                resultsPre.innerText = JSON.stringify(data.results, null, 2);
+                resultsDiv.appendChild(companyNameHeader);
+                resultsDiv.appendChild(resultsHeader);
+                resultsDiv.appendChild(resultsPre);
+            });
+        });
+    </script>
+</body>
+</html>

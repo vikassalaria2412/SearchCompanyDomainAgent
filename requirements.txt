@@ -1,0 +1,10 @@
+langchain-community
+langchain
+langchain_openai
+python-dotenv
+langchain-chroma
+crawl4ai@git+https://github.com/unclecode/crawl4ai.git
+transformers
+torch
+nltk
+langgraph

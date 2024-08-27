@@ -1,0 +1,3872 @@
+[
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "U.S. Securities and Exchange Commission # Automated access to our sites must comply with SEC.gov\\\\'s Privacy and\nSecurity Policy. Please visit www.sec.gov/developer for more developer resources and Fair\nAccess guidelines. Please visit www.sec.gov/privacy for more information on Privacy Policy. Reference ID: 0.2d210f17.1724526341.13abefea",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "www.sec.gov"
+            ]
+        },
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "example.com",
+            "temp.example.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "example.com",
+            "temp.example.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "example.com",
+            "solarmora.com",
+            "temp.example.com",
+            "temp.yourdomain.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://support.google.com/a/answer/12099366?hl=en",
+        "output_data": {
+            "subsidiaries": [
+                "solarmora.com",
+                "example.com"
+            ],
+            "associated_domains": [
+                "temp.example.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "temp.example.com",
+            "example.com"
+        ],
+        "error": false
+    }
+]
+[
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "cloud.google.com",
+                "gstatic.com",
+                "devrel-devsite",
+                "google.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "example.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "hypothetical.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/resource-manager/docs/managing-multiple-orgs",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Choose one or more users to act as the IAM Organization Administrator for the organization resource. Console  More To add an Organization Administrator:   1. Sign in to the Google Cloud console as a Google Workspace or Cloud Identity super administrator and navigate to the IAM & Admin page:  Open the IAM & admin page   2. Select the organization resource you want to edit:     1. Click the project drop-down list at the top of the page.     2. In the Select from dialog, click the organization drop-down list, and select the organization resource to which you want to add an Organization Administrator.     3. On the list that appears, click the organization resource to open its IAM Permissions page.   3. Click Add, and then enter the email address of one or more users you want to set as Organization Administrators.   4. In the Select a role drop-down list, select Resource Manager > Organization Administrator, and then click Save. The Organization Administrator can do the following:      * Take full control of the organization resource. Separation of responsibilities between Google Workspace or Cloud Identity super administrator and Google Cloud administrator is established.      * Delegate responsibility over critical functions by assigning the relevant IAM roles. ### Remove Project Creator role Remove the Project Creator role from the organization resource to ensure that resources are not created in the other organization resources. Console  More To remove the roles assigned to users by default using the Google Cloud console:   1. Go to the Manage resources page in the Google Cloud console:  Open the Manage resources page   2. Click the Organization drop-down list at the top of the page and then select your organization resource.   3. Select the check box for the organization resource for which you want to change permissions. If you do not have a Folder resource, the organization resource will not be visible. To continue, see the instructions for revoking roles through the IAM page.   4. On the right side Info Panel, under Permissions, click to expand the role from which you want to remove users. If you do not have a Folder resource, the organization resource will not be visible. To continue, see the instructions for revoking roles through the IAM page.   4. On the right side Info Panel, under Permissions, click to expand the role from which you want to remove users.",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    }
+]
+None
+None
+[
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Waymo",
+            "Sidewalk Labs",
+            "Google DeepMind"
+        ],
+        "associated_domains": [
+            "google.com",
+            "youtube.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Adscape",
+                "Android",
+                "Charleston Road Registry",
+                "DeepMind",
+                "Endoxon",
+                "FeedBurner",
+                "Fitbit",
+                "ImageAmerica",
+                "Kaltix",
+                "Nest Labs",
+                "reCAPTCHA",
+                "YouTube",
+                "ZipDash"
+            ],
+            "associated_domains": [
+                "about.google"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "YouTube",
+            "DoubleClick",
+            "Motorola Mobility",
+            "Waze",
+            "DeepMind"
+        ],
+        "associated_domains": [
+            "google.com",
+            "youtube.com",
+            "doubleclick.com",
+            "motorola.com",
+            "waze.com",
+            "deepmind.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Raxium"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "gmail.com",
+            "google.com/calendar",
+            "maps.google.com",
+            "drive.google.com",
+            "docs.google.com",
+            "photos.google.com",
+            "keep.google.com",
+            "translate.google.com",
+            "youtube.com",
+            "business.google.com",
+            "duo.google.com",
+            "stadia.google.com",
+            "jobs.google.com",
+            "earth.google.com",
+            "android.com",
+            "chrome.com",
+            "chromebook.com",
+            "chromecast.com",
+            "vr.google.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Nest",
+            "Google Workspace",
+            "Google Cloud Platform",
+            "Google for Entrepreneurs",
+            "Google Analytics 360 Suite",
+            "Google Fiber",
+            "Project Fi"
+        ],
+        "associated_domains": [
+            "calendar",
+            "weather",
+            "Gmail",
+            "Google Drive",
+            "Google Docs",
+            "Google Sheets",
+            "Google Slides",
+            "BigQuery"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "In 2003, after outgrowing two other locations, the company leased an office complex from Silicon Graphics, at 1600 Amphitheatre Parkway in Mountain View, California.[61] The complex became known as the Googleplex, a play on the word googolplex, the number one followed by a googol of zeroes. Three years later, Google bought the property from SGI for $319 million.[62] By that time, the name \"Google\" had found its way into everyday language, causing the verb \"google\" to be added to the Merriam-Webster Collegiate Dictionary and the Oxford English Dictionary, denoted as: \"to use the Google search engine to obtain information on the Internet\".[63][64] The first use of the verb on television appeared in an October 2002 episode of Buffy the Vampire Slayer.[65] Additionally, in 2001 Google's investors felt the need to have a strong internal management, and they agreed to hire Eric Schmidt as the chairman and CEO of Google.[49] Eric was proposed by John Doerr from Kleiner Perkins. He had been trying to find a CEO that Sergey and Larry would accept for several months, but they rejected several candidates because they wanted to retain control over the company. Michael Moritz from Sequoia Capital at one point even menaced requesting Google to immediately pay back Sequoia's $12.5m investment if they did not fulfill their promise to hire a chief executive officer, which had been made verbally during investment negotiations. Eric was not initially enthusiastic about joining Google either, as the company's full potential had not yet been widely recognized at the time, and as he was occupied with his responsibilities at Novell where he was CEO. As part of him joining, Eric agreed to buy $1 million of Google preferred stocks as a way to show his commitment and to provide funds Google needed.[66] ### Initial public offering On August 19, 2004, Google became a public company via an initial public offering, listing the company on the Nasdaq Global Select Market under the ticker symbol GOOG. At that time Page, Brin and Schmidt agreed to work together at Google for 20 years, until the year 2024.[67] The company offered 19,605,052 shares at a price of $85 per share.[68][69] Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse, underwriters for the deal.[70][71] The sale of $1.67 billion gave Google a market capitalization of more than $23 billion.[72] ![](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg/170px- Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg\\\")Eric Schmidt, CEO of Google from 2001 to 2011 shares at a price of $85 per share.[68][69] Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse, underwriters for the deal.[70][71] The sale of $1.67 billion gave Google a market capitalization of more than $23 billion.[72] ![](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg/170px- Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg\\\")Eric Schmidt, CEO of Google from 2001 to 2011",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "On August 10, 2015, Google announced plans to reorganize its various interests\nas a conglomerate named Alphabet Inc. Google became Alphabet's largest\nsubsidiary and the umbrella company for Alphabet's Internet interests. Upon\ncompletion of the restructuring, Sundar Pichai became CEO of Google, replacing\nLarry Page, who became CEO of Alphabet.[99][100][101] ![](//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_CEO_of_Google%2C_Mr._Sundar_Pichai_calls_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_December_17%2C_2015_%281%29.jpg/220px-\nThe_CEO_of_Google%2C_Mr._Sundar_Pichai_calls_on_the_Prime_Minister%2C_Shri_Narendra_Modi%2C_in_New_Delhi_on_December_17%2C_2015_%281%29.jpg\")Current\nCEO, Sundar Pichai, with Prime Minister of India, Narendra Modi On August 8, 2017, Google fired employee James Damore after he distributed a\nmemo throughout the company that argued bias and \"Google's Ideological Echo\nChamber\" clouded their thinking about diversity and inclusion, and that it is\nalso biological factors, not discrimination alone, that cause the average\nwoman to be less interested than men in technical positions.[102] Google CEO\nSundar Pichai accused Damore of violating company policy by \"advancing\nharmful gender stereotypes in our workplace\", and he was fired on the same\nday.[103][104][105] Between 2018 and 2019, tensions between the company's leadership and its\nworkers escalated as staff protested company decisions on internal sexual\nharassment, Dragonfly, a censored Chinese search engine, and Project Maven, a\nmilitary drone artificial intelligence, which had been seen as areas of\nrevenue growth for the company.[106][107] On October 25, 2018, The New York\nTimes published the expos\u00e9, \"How Google Protected Andy Rubin, the 'Father of\nAndroid'\". The company subsequently announced that \"48 employees have been\nfired over the last two years\" for sexual misconduct.[108] On November 1,\n2018, more than 20,000 Google employees and contractors staged a global walk-\nout to protest the company's handling of sexual harassment\ncomplaints.[109][110] CEO Sundar Pichai was reported to be in support of the\nprotests.[111] Later in 2019, some workers accused the company of retaliating\nagainst internal activists.[107] On March 19, 2019, Google announced that it would enter the video game market,\nlaunching a cloud gaming platform called Google Stadia.[112] On June 3, 2019, the United States Department of Justice reported that it\nwould investigate Google for antitrust violations.[113] This led to the filing\nof an antitrust lawsuit in October 2020, on the grounds the company had abused\na monopoly position in the search and search advertising markets.[114] In December 2019, former PayPal chief operating officer Bill Ready became\nGoogle's new commerce chief. Ready's role will not be directly involved with\nGoogle Pay.[115] This led to the filing\nof an antitrust lawsuit in October 2020, on the grounds the company had abused\na monopoly position in the search and search advertising markets.[114] In December 2019, former PayPal chief operating officer Bill Ready became\nGoogle's new commerce chief. Ready's role will not be directly involved with\nGoogle Pay.[115]",
+        "output_data": {
+            "subsidiaries": [
+                "Alphabet Inc."
+            ],
+            "associated_domains": []
+        }
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "As of September 30, 2020,[update] Alphabet Inc. had 132,121 employees,[242] of\nwhich more than 100,000 worked for Google.[8] Google\\\\'s 2020[update] diversity\nreport states that 32 percent of its workforce are women and 68 percent are\nmen, with the ethnicity of its workforce being predominantly white (51.7%) and\nAsian (41.9%).[243] Within tech roles, 23.6 percent were women; and 26.7\npercent of leadership roles were held by women.[244] In addition to its\n100,000+ full-time employees, Google used about 121,000 temporary workers and\ncontractors, as of March 2019.[update][8] Google\\\\'s employees are hired based on a hierarchical system. Employees are\nsplit into six hierarchies based on experience and can range \\\\\"from entry-\nlevel data center workers at level one to managers and experienced engineers\nat level six.\\\\\"[245] As a motivation technique, Google uses a policy known as\nInnovation Time Off, where Google engineers are encouraged to spend 20% of\ntheir work time on projects that interest them. Some of Google\\\\'s services,\nsuch as Gmail, Google News, Orkut, and AdSense, originated from these\nindependent endeavors.[246] In a talk at Stanford University, Marissa Mayer,\nGoogle\\\\'s vice-president of Search Products and User Experience until July\n2012, showed that half of all new product launches in the second half of 2005\nhad originated from the Innovation Time Off.[247] In 2005, articles in The New York Times[248] and other sources began\nsuggesting that Google had lost its anti-corporate, no evil\nphilosophy.[249][250][251] In an effort to maintain the company\\\\'s unique\nculture, Google designated a Chief Culture Officer whose purpose was to\ndevelop and maintain the culture and work on ways to keep true to the core\nvalues that the company was founded on.[252] Google has also faced allegations\nof sexism and ageism from former employees.[253][254] In 2013, a class action\nagainst several Silicon Valley companies, including Google, was filed for\nalleged \\\\\"no cold call\\\\\" agreements which restrained the recruitment of high-\ntech employees.[255] In a lawsuit filed January 8, 2018, multiple employees\nand job applicants alleged Google discriminated against a class defined by\ntheir \\\\\"conservative political views[,] male gender[,] and/or [...] Caucasian\nor Asian race\\\\\".[256] action\nagainst several Silicon Valley companies, including Google, was filed for\nalleged \\\\\"no cold call\\\\\" agreements which restrained the recruitment of high-\ntech employees.[255] In a lawsuit filed January 8, 2018, multiple employees\nand job applicants alleged Google discriminated against a class defined by\ntheir \\\\\"conservative political views[,] male gender[,] and/or [...] Caucasian\nor Asian race\\\\\".[256]",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\": []}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "It also has product research and development operations in cities around the world, namely Sydney (birthplace location of Google Maps)[279] and London (part of Android development).[280] In November 2013, Google announced plans for a new London headquarter, a 1 million square foot office able to accommodate 4,500 employees. Recognized as one of the biggest ever commercial property acquisitions at the time of the deal's announcement in January,[281] Google submitted plans for the new headquarter to the Camden Council in June 2017.[282][283] In May 2015, Google announced its intention to create its own campus in Hyderabad, India. The new campus, reported to be the company's largest outside the United States, will accommodate 13,000 employees.[284][285] Google's Global Offices sum a total of 85 Locations worldwide,[286] with 32 offices in North America, 3 of them in Canada and 29 in United States Territory, California being the state with the most Google's offices with 9 in total including the Googleplex. In the Latin America Region Google counts with 6 offices, in Europe 24 (3 of them in UK), the Asia Pacific region counts with 18 offices principally 4 in India and 3 in China, and the Africa Middle East region counts 5 offices. #### North America offices with 9 in total including the Googleplex. In the Latin America Region Google counts with 6 offices, in Europe 24 (3 of them in UK), the Asia Pacific region counts with 18 offices principally 4 in India and 3 in China, and the Africa Middle East region counts 5 offices. #### North America",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "In August 2023, Google became the first major tech company to join the\nOpenWallet Foundation, launched earlier in the year, whose goal was creating\nopen-source software for interoperable digital wallets.[198] ## Corporate affairs ### Stock price performance and quarterly earnings Google\\\\'s initial public offering (IPO) took place on August 19, 2004. At IPO,\nthe company offered 19,605,052 shares at a price of $85 per share.[68][69] The\nsale of $1.67 billion gave Google a market capitalization of more than $23\nbillion.[72] The stock performed well after the IPO, with shares hitting $350\nfor the first time on October 31, 2007,[199] primarily because of strong sales\nand earnings in the online advertising market.[200] The surge in stock price\nwas fueled mainly by individual investors, as opposed to large institutional\ninvestors and mutual funds.[200] GOOG shares split into GOOG class C shares\nand GOOGL class A shares.[201] The company is listed on the NASDAQ stock\nexchange under the ticker symbols GOOGL and GOOG, and on the Frankfurt Stock\nExchange under the ticker symbol GGQ1. These ticker symbols now refer to\nAlphabet Inc., Google\\\\'s holding company, since the fourth quarter of\n2015.[update][202] In the third quarter of 2005, Google reported a 700% increase in profit,\nlargely due to large companies shifting their advertising strategies from\nnewspapers, magazines, and television to the Internet.[203][204][205] For the 2006 fiscal year, the company reported $10.492 billion in total\nadvertising revenues and only $112 million in licensing and other\nrevenues.[206] In 2011, 96% of Google\\\\'s revenue was derived from its\nadvertising programs.[207] Google generated $50 billion in annual revenue for the first time in 2012,\ngenerating $38 billion the previous year. In January 2013, then-CEO Larry Page\ncommented, \\\\\"We ended 2012 with a strong quarter ... Revenues were up 36%\nyear-on-year, and 8% quarter-on-quarter. And we hit $50 billion in revenues\nfor the first time last year \u2013 not a bad achievement in just a decade and a\nhalf.\\\\\"[208] Google\\\\'s consolidated revenue for the third quarter of 2013 was reported in\nmid-October 2013 as $14.89 billion, a 12 percent increase compared to the\nprevious quarter.[209] Google\\\\'s Internet business was responsible for $10.8\nbillion of this total, with an increase in the number of users\\\\' clicks on\nadvertisements.[210] By January 2014, Google\\\\'s market capitalization had\ngrown to $397 billion.[211] ### Tax avoidance strategies Further information: Corporation tax in the Republic of Ireland \u00a7\nMultinational tax schemes, and Google tax quarter.[209] Google\\\\'s Internet business was responsible for $10.8\nbillion of this total, with an increase in the number of users\\\\' clicks on\nadvertisements.[210] By January 2014, Google\\\\'s market capitalization had\ngrown to $397 billion.[211] ### Tax avoidance strategies Further information: Corporation tax in the Republic of Ireland \u00a7\nMultinational tax schemes, and Google tax",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Ads",
+            "AI",
+            "Brain",
+            "DeepMind",
+            "Android",
+            "China",
+            "Chrome",
+            "Cloud",
+            "Glass",
+            "Google.org",
+            "Health",
+            "Maps",
+            "Pixel",
+            "Search",
+            "Sidewalk Labs",
+            "Sustainability",
+            "YouTube"
+        ],
+        "associated_domains": [
+            "Official website",
+            "Official Blog",
+            "Bloomberg",
+            "Reuters",
+            "SEC filings"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        }
+    },
+    {
+        "subsidiaries": [
+            "YouTube",
+            "Google Fiber",
+            "DeepMind",
+            "DoubleClick",
+            "Motorola Mobility",
+            "Waze",
+            "Calico",
+            "Nest Labs",
+            "Chronicle",
+            "Fitbit",
+            "Looker",
+            "Mandiant",
+            "Raxium"
+        ],
+        "associated_domains": [
+            "google.com",
+            "youtube.com",
+            "blogger.com",
+            "waze.com",
+            "googlefiber.net",
+            "deepmind.com",
+            "doubleclick.net",
+            "motorola.com",
+            "calicolabs.com",
+            "nest.com",
+            "chronicle.security",
+            "fitbit.com",
+            "looker.com",
+            "mandiant.com",
+            "raxium.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "On April 18, 2024, Google dismissed 28 employees who participated in protests\nagainst the company\\\\'s involvement in Project Nimbus, a $1.2 billion contract\nwith the Israeli government to provide cloud computing and AI infrastructure,\nwhich the employees argued should not be used for military or intelligence\nservices. The protesting employees, part of the group No Tech For Apartheid,\nstaged sit-ins at Google\\\\'s offices in New York and Sunnyvale,\nCalifornia,[365] leading to disruptions and blockages within the company\nfacilities.[366][367] This had followed reports of Israeli forces killing\nlarge numbers of Palestinian civilians while using own Lavender AI system to\nidentify targets.[368][369] ### Anti-trust, privacy, and other litigation Main article: Google litigation ![](\\\\\\\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-\n_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/220px-Belgique_-_Bruxelles_-\n_Schuman_-_Berlaymont_-_01.jpg\\\\\\\")The European Commission, which imposed three\nfines on Google in 2017, 2018, and 2019 #### Fines and lawsuits ##### European Union On June 27, 2017, the company received a record fine of \u20ac2.42 billion from the\nEuropean Union for \\\\\"promoting its own shopping comparison service at the top\nof search results.\\\\\"[370] On July 18, 2018,[371] the European Commission fined Google \u20ac4.34 billion for\nbreaching EU antitrust rules. The abuse of dominants position has been\nreferred to as Google\\\\'s constraint applied to Android device manufacturers\nand network operators to ensure that traffic on Android devices goes to the\nGoogle search engine. On October 9, 2018, Google confirmed[372] that it had\nappealed the fine to the General Court of the European Union.[373] On October 8, 2018, a class action lawsuit was filed against Google and\nAlphabet due to \\\\\"non-public\\\\\" Google+ account data being exposed as a result\nof a bug that allowed app developers to gain access to the private information\nof users. The litigation was settled in July 2020 for $7.5 million with a\npayout to claimants of at least $5 each, with a maximum of $12\neach.[374][375][376] On March 20, 2019, the European Commission imposed a \u20ac1.49 billion ($1.69\nbillion) fine on Google for preventing rivals from being able to \\\\\"compete and\ninnovate fairly\\\\\" in the online advertising market. European Union competition\ncommissioner Margrethe Vestager said Google had violated EU antitrust rules by\n\\\\\"imposing anti-competitive contractual restrictions on third-party websites\\\\\"\nthat required them to exclude search results from Google\\\\'s rivals.[377][378] On September 14, 2022, Google lost the appeal of a \u20ac4.125 billion (\u00a33.5\nbillion) fine, which was ruled to be paid after it was proved by the European\nCommission that Google forced Android phone-makers to carry Google\\\\'s search\nand web browser apps. Since the initial accusations, Google has changed its\npolicy.[379] ##### France rivals.[377][378] On September 14, 2022, Google lost the appeal of a \u20ac4.125 billion (\u00a33.5\nbillion) fine, which was ruled to be paid after it was proved by the European\nCommission that Google forced Android phone-makers to carry Google\\\\'s search\nand web browser apps. Since the initial accusations, Google has changed its\npolicy.[379] ##### France",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Anvato",
+            "Apigee",
+            "Bitium",
+            "Chronicle",
+            "VirusTotal",
+            "Compute Engine",
+            "Connect",
+            "Dataflow",
+            "Datastore",
+            "Kaggle",
+            "Looker",
+            "Mandiant",
+            "Messaging",
+            "Orbitera",
+            "Shell",
+            "Stackdriver",
+            "Storage"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        }
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [
+                "Currents (news app)",
+                "Green Throttle Games",
+                "Owlchemy Labs",
+                "Oyster",
+                "PaperofRecord.com",
+                "Podcasts",
+                "Quick, Draw!",
+                "Santa Tracker",
+                "Songza",
+                "Stadia",
+                "Typhoon Studios",
+                "TV",
+                "Vevo",
+                "Video",
+                "Books",
+                "Games",
+                "Music",
+                "Newsstand",
+                "Pass",
+                "Services",
+                "BandPage",
+                "BrandConnect",
+                "Content ID",
+                "Instant",
+                "Kids",
+                "Music",
+                "Official channel",
+                "Preferred",
+                "Premium",
+                "YouTube Rewind",
+                "RightsFlow",
+                "Shorts",
+                "Studio",
+                "TV",
+                "Allo",
+                "Bump",
+                "Buzz",
+                "Chat",
+                "Contacts",
+                "Currents (social app)",
+                "Dodgeball",
+                "Duo",
+                "Fi Wireless",
+                "Friend Connect",
+                "Gizmo5",
+                "Google+",
+                "Gmail",
+                "Groups",
+                "Hangouts",
+                "Helpouts",
+                "IME",
+                "Jaiku",
+                "Marratech",
+                "Meebo",
+                "Meet",
+                "Messages",
+                "Moderator",
+                "Neotonic Software",
+                "Orkut",
+                "Postini",
+                "Quest Visual",
+                "Schemer",
+                "Spaces",
+                "Sparrow",
+                "Talk",
+                "Translate",
+                "Voice",
+                "Wave"
+            ],
+            "associated_domains": [
+                "Inbox",
+                "Interface",
+                "History",
+                "Japanese",
+                "Pinyin",
+                "Word Lens",
+                "Translator Toolkit",
+                "Voice Local Search"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Aardvark",
+            "BeatThatQuote.com",
+            "Kaltix",
+            "Like.com",
+            "Metaweb",
+            "Adscape",
+            "DoubleClick",
+            "Invite Media",
+            "Urchin",
+            "PostRank",
+            "Wildfire Interactive",
+            "Widevine",
+            "Endoxon",
+            "ImageAmerica",
+            "Waze"
+        ],
+        "associated_domains": [
+            "Alerts",
+            "Answers",
+            "Base",
+            "Blog Search",
+            "Books",
+            "Ngram Viewer",
+            "Code Search",
+            "Data Commons",
+            "Dataset Search",
+            "Dictionary",
+            "Directory",
+            "Fast Flip",
+            "Flu Trends",
+            "Finance",
+            "Goggles",
+            "Google.by",
+            "Images",
+            "Image Labeler",
+            "Image Swirl",
+            "Knowledge Graph",
+            "Freebase",
+            "News",
+            "Archive",
+            "Weather",
+            "Patents",
+            "People Cards",
+            "Personalized Search",
+            "Public Data Explorer",
+            "Questions and Answers",
+            "SafeSearch",
+            "Scholar",
+            "Searchwiki",
+            "Shopping",
+            "Catalogs",
+            "Express",
+            "Squared",
+            "Tenor",
+            "Travel",
+            "Flights",
+            "Trends",
+            "Insights for Search",
+            "Voice Search",
+            "WDYL",
+            "Earth",
+            "Maps",
+            "Latitude",
+            "Map Maker",
+            "Navigation",
+            "Pin",
+            "Street View",
+            "Coverage",
+            "Trusted",
+            "Where Is My Train",
+            "Ad Manager",
+            "AdMob",
+            "Ads",
+            "AdSense",
+            "Attribution",
+            "BebaPay",
+            "Checkout",
+            "Contributor",
+            "Marketing Platform",
+            "Analytics",
+            "Looker Studio",
+            "Pay (mobile app)",
+            "Wallet",
+            "Pay (payment method)",
+            "Send",
+            "Tez",
+            "Primer",
+            "Softcard"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [
+                "Apture",
+                "Blogger",
+                "Pyra Labs",
+                "Domains",
+                "FeedBurner",
+                "One Pass",
+                "Page Creator",
+                "Sites",
+                "Web Designer",
+                "Classroom",
+                "Grasshopper",
+                "Socratic",
+                "Photomath",
+                "Read Along",
+                "Workspace",
+                "Marketplace",
+                "Account",
+                "Dashboard",
+                "Takeout",
+                "Android Auto",
+                "Android Beam",
+                "Arts & Culture",
+                "Assistant",
+                "Authenticator",
+                "Body",
+                "BufferBox",
+                "Building Maker",
+                "BumpTop",
+                "Cast",
+                "Cloud Print",
+                "Crowdsource",
+                "Digital Wellbeing",
+                "Expeditions",
+                "Family Link",
+                "Find My Device",
+                "Fit",
+                "Google Fonts",
+                "Gboard",
+                "Gemini",
+                "Gesture Search",
+                "Impermium",
+                "Knol",
+                "Lively",
+                "Live Transcribe",
+                "MyTracks",
+                "Nearby Share",
+                "Now",
+                "Offers",
+                "Opinion Rewards",
+                "Person Finder",
+                "Poly",
+                "Question Hub",
+                "Quick Share",
+                "Reader",
+                "Safe Browsing",
+                "Sidewiki",
+                "SlickLogin",
+                "Sound Amplifier",
+                "Speech Services",
+                "Station",
+                "Store",
+                "TalkBack",
+                "Tilt Brush",
+                "URL Shortener",
+                "Voice Access",
+                "Wavii",
+                "Web Light",
+                "WiFi",
+                "Apps",
+                "Chromium",
+                "Dinosaur Game",
+                "GreenBorder",
+                "Remote Desktop",
+                "Web Store",
+                "V8"
+            ],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Camera",
+            "Lens",
+            "Snapseed",
+            "Nik Software",
+            "Panoramio",
+            "Photos",
+            "Picasa",
+            "Web Albums",
+            "Picnik",
+            "Android Dev Phone",
+            "Android One",
+            "Nexus",
+            "Pixel",
+            "Play Edition",
+            "Project Ara",
+            "Chromebook",
+            "Pixelbook",
+            "Fitbit",
+            "Pixel Buds",
+            "Pixel Watch",
+            "Project Iris",
+            "Cardboard",
+            "Contact Lens",
+            "Daydream",
+            "Glass"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Chromebit",
+            "Chromebox",
+            "Clips",
+            "Digital media players",
+            "Chromecast",
+            "Nexus Player",
+            "Nexus Q",
+            "Dropcam",
+            "Liquid Galaxy",
+            "Nest",
+            "Smart Speakers",
+            "Thermostat",
+            "Wifi",
+            "OnHub",
+            "Pixel Visual Core",
+            "Search Appliance",
+            "Sycamore processor",
+            "Tensor",
+            "Tensor Processing Unit",
+            "Titan Security Key"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                ".app",
+                ".dev",
+                "g.co",
+                ".google"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [
+                "Google Fiber",
+                "Calico",
+                "CapitalG",
+                "DeepMind",
+                "DoubleClick",
+                "Firebase",
+                "Fitbit",
+                "Tenor",
+                "Waze",
+                "YouTube",
+                "GV",
+                "Isomorphic Labs",
+                "Verily",
+                "X Development",
+                "Waymo",
+                "Wing"
+            ],
+            "associated_domains": [
+                "AlphaFold",
+                "AlphaGo",
+                "AlphaGo Zero",
+                "AlphaStar",
+                "AlphaZero",
+                "Master",
+                "MuZero",
+                "WaveNet",
+                "Baseline Study"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Fitbit"
+        ],
+        "associated_domains": [
+            "google.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Bouygues Telecom",
+            "China Mobile",
+            "China Telecommunications Corporation",
+            "China Unicom",
+            "Gruppo TIM",
+            "KDDI",
+            "Nepal Telecom",
+            "NTT Docomo",
+            "SoftBank Group",
+            "Sprint Corporation",
+            "T-Mobile",
+            "Telef\u00f3nica",
+            "Telus",
+            "Vodafone",
+            "Access",
+            "Ascender Corporation",
+            "eBay",
+            "Google",
+            "Myriad Group",
+            "Nuance Communications",
+            "NXP Software",
+            "Omron",
+            "PacketVideo",
+            "SVOX",
+            "VisualOn",
+            "AKM Semiconductor",
+            "Arm",
+            "Audience",
+            "Broadcom",
+            "CSR plc (joined as SiRF)",
+            "Cypress Semiconductor",
+            "Freescale Semiconductor",
+            "Gemalto",
+            "Intel",
+            "Marvell Technology Group",
+            "MediaTek",
+            "MIPS Technologies",
+            "Nvidia",
+            "Qualcomm",
+            "Qualcomm Atheros",
+            "Renesas Electronics",
+            "ST-Ericsson (joined as Ericsson Mobile Platforms)",
+            "Synaptics",
+            "Texas Instruments",
+            "Acer",
+            "Alcatel Mobile Phones",
+            "Asus",
+            "Chaudhary Group (with association of LG)",
+            "CCI",
+            "Dell",
+            "Foxconn",
+            "Garmin",
+            "HTC",
+            "Huawei",
+            "Kyocera",
+            "Lenovo Mobile",
+            "LG Electronics",
+            "Motorola Mobility",
+            "NEC Corporation",
+            "Samsung Electronics",
+            "Sharp Corporation",
+            "Sony Mobile",
+            "Toshiba",
+            "ZTE",
+            "Accenture",
+            "Borqs",
+            "Sasken Communication Technologies",
+            "Teleca",
+            "The Astonishing Tribe",
+            "Wind River Systems",
+            "Wipro Technologies"
+        ],
+        "associated_domains": [
+            "Android",
+            "Dalvik virtual machine",
+            "Google Nexus",
+            "T-Mobile G1"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Akamai",
+            "Alibaba Cloud",
+            "AWS",
+            "Apple iCloud",
+            "Google",
+            "IBM",
+            "Microsoft Azure",
+            "Oracle Corporation",
+            "Salesforce",
+            "ServiceNow"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Amazon.com",
+            "Apple",
+            "Booking Holdings",
+            "Coupang",
+            "eBay",
+            "Expedia",
+            "Flipkart",
+            "Groupon",
+            "JD.com",
+            "Lazada",
+            "Mercado Libre",
+            "Rakuten",
+            "Shopee",
+            "Shopify",
+            "Suning.com",
+            "Trip.com",
+            "Uber",
+            "Wayfair",
+            "Zalando"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Bloomberg",
+            "BuzzFeed",
+            "ByteDance",
+            "Kuaishou",
+            "Netflix",
+            "Paramount Streaming",
+            "Spotify",
+            "Warner Bros. Discovery"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Adobe",
+            "Amadeus IT Group",
+            "Amazon",
+            "Apple",
+            "Autodesk",
+            "Citrix",
+            "FIS",
+            "Google",
+            "HPE",
+            "IBM",
+            "Intuit",
+            "Infor",
+            "Microsoft",
+            "Oracle",
+            "Quest Software",
+            "Sage Group",
+            "SAP",
+            "Tencent"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Google\n    * Sundar Pichai\n    * Larry Page\n    * Sergey Brin\n  * X Prize Foundation\n    * Peter Diamandis   \nFinalist teams|   * Hakuto\n  * Moon Express\n  * SpaceIL\n  * Synergy Moon\n  * TeamIndus   \nWithdrawn teams|   * Advaeros\n  * AngelicvM\n  * ARCA\n  * Astrobotic\n  * Barcelona Moon Team\n  * C-Base Open Moon\n  * Euroluna\n  * FREDNET\n  * Independence-X\n  * JURBAN\n  * LunaTrex\n  * Micro-Space\n  * Mystical Moon\n  * Next Giant Leap\n  * Odyssey Moon\n  * Omega Envoy\n  * Part-Time Scientists\n  * Penn State Lunar Lion Team\n  * Team Puli\n  * Quantum3\n  * Rocket City Space Pioneers\n  * SCSG\n  * Selenokhod\n  * SpaceMETA\n  * STELLAR\n  * Team Italia\n  * Team Phoenicia\n  * Team Plan B\n  * Team SELENE   \nSpacecraft|   * ALINA (Part-Time Scientists)\n  * Beresheet (SpaceIL)\n  * HHK-1 / ECA (TeamIndus)\n  * MX-1E (Moon Express)\n  * Peregrine (Astrobotic)\n  * SORATO (Hakuto)\n  * Tesla (Synergy Moon)\n  * Unity (AngelicvM)   \n  \nshow   * v\n  * t\n  * e ALINA (Part-Time Scientists)\n  * Beresheet (SpaceIL)\n  * HHK-1 / ECA (TeamIndus)\n  * MX-1E (Moon Express)\n  * Peregrine (Astrobotic)\n  * SORATO (Hakuto)\n  * Tesla (Synergy Moon)\n  * Unity (AngelicvM)   \n  \nshow   * v\n  * t\n  * e",
+        "output_data": {
+            "subsidiaries": [
+                "X Prize Foundation",
+                "Hakuto",
+                "Moon Express",
+                "SpaceIL",
+                "Synergy Moon",
+                "TeamIndus",
+                "Advaeros",
+                "AngelicvM",
+                "ARCA",
+                "Astrobotic",
+                "Barcelona Moon Team",
+                "C-Base Open Moon",
+                "Euroluna",
+                "FREDNET",
+                "Independence-X",
+                "JURBAN",
+                "LunaTrex",
+                "Micro-Space",
+                "Mystical Moon",
+                "Next Giant Leap",
+                "Odyssey Moon",
+                "Omega Envoy",
+                "Part-Time Scientists",
+                "Penn State Lunar Lion Team",
+                "Team Puli",
+                "Quantum3",
+                "Rocket City Space Pioneers",
+                "SCSG",
+                "Selenokhod",
+                "SpaceMETA",
+                "STELLAR",
+                "Team Italia",
+                "Team Phoenicia",
+                "Team Plan B",
+                "Team SELENE"
+            ],
+            "associated_domains": [
+                "ALINA (Part-Time Scientists)",
+                "Beresheet (SpaceIL)",
+                "HHK-1 / ECA (TeamIndus)",
+                "MX-1E (Moon Express)",
+                "Peregrine (Astrobotic)",
+                "SORATO (Hakuto)",
+                "Tesla (Synergy Moon)",
+                "Unity (AngelicvM)"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [
+                "Apple",
+                "Bose",
+                "Cisco",
+                "Corsair",
+                "Dell",
+                "Dolby Laboratories",
+                "Element Electronics",
+                "Emerson Radio",
+                "Harman",
+                "Honeywell",
+                "HP",
+                "InFocus",
+                "Jensen Electronics",
+                "Kenmore",
+                "Kingston",
+                "Kimball",
+                "Koss",
+                "Lexmark",
+                "Logitech",
+                "Magnavox",
+                "Marantz",
+                "Memorex",
+                "Microsoft",
+                "Monster",
+                "Plantronics",
+                "Planar Systems",
+                "Razer",
+                "Seagate",
+                "Seiki Digital",
+                "Skullcandy",
+                "Turtle Beach",
+                "ViewSonic",
+                "Vizio",
+                "Western Digital",
+                "HGST",
+                "SanDisk",
+                "Westinghouse Electric Company",
+                "Westinghouse Electronics",
+                "Xerox"
+            ],
+            "associated_domains": [
+                "3M",
+                "Achronix",
+                "Analog Devices",
+                "Maxim Integrated",
+                "Applied Materials",
+                "Altera",
+                "AVX",
+                "Cirque",
+                "Diodes Inc.",
+                "Flex",
+                "Jabil",
+                "KEMET",
+                "Maxwell Technologies",
+                "Sanmina",
+                "Vishay",
+                "AMD",
+                "Ampere Computing",
+                "Apple",
+                "Broadcom",
+                "Cypress Semiconductor",
+                "GlobalFoundries",
+                "IBM",
+                "Intel",
+                "Interlink",
+                "KLA-Tencor",
+                "Lam Research",
+                "Lattice",
+                "Marvell Technology",
+                "Microchip (Atmel)",
+                "Micron",
+                "NetApp",
+                "Nimbus Data",
+                "Nvidia",
+                "Mellanox",
+                "NXP",
+                "onsemi",
+                "Qualcomm",
+                "Silicon Image",
+                "Synaptics",
+                "Tabula",
+                "Texas Instruments",
+                "Xilinx",
+                "Zilog",
+                "Apple",
+                "BLU",
+                "Google",
+                "Lenovo (Motorola Mobility)",
+                "Cadence Design Systems",
+                "Cray",
+                "GE",
+                "RCA",
+                "Oracle Corporation",
+                "Synopsys"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Laureates of the Prince or Princess of Asturias Award for Communication and Humanities  \n---  \n| Prince of Asturias Award for Communication and Humanities  \n---  \n  \n  * 1981: Mar\u00eda Zambrano\n  * 1982: Mario Bunge\n  * 1983: El Pa\u00eds newspaper\n  * 1984: Claudio S\u00e1nchez-Albornoz\n  * 1985: Jos\u00e9 Ferrater Mora\n  * 1986: Grupo Globo\n  * 1987: El Espectador and El Tiempo newspapers\n  * 1988: Horacio S\u00e1enz Guerrero\n  * 1989: Pedro La\u00edn Entralgo and Fondo de Cultura Econ\u00f3mica\n  * 1990: Jos\u00e9 Sime\u00f3n Ca\u00f1as Central American University\n  * 1991: Luis Mar\u00eda Anson\n  * 1992: Emilio Garc\u00eda G\u00f3mez\n  * 1993: Vuelta magazine by Octavio Paz\n  * 1994: Spanish Missions in Rwanda and Burundi\n  * 1995: EFE Agency and Jos\u00e9 Luis L\u00f3pez Aranguren\n  * 1996: Indro Montanelli and Juli\u00e1n Mar\u00edas\n  * 1997: V\u00e1clav Havel and CNN\n  * 1998: Reinhard Mohn\n  * 1999: Caro and Cuervo Institute\n  * 2000: Umberto Eco\n  * 2001: George Steiner\n  * 2002: Hans Magnus Enzensberger\n  * 2003: Ryszard Kapu\u015bci\u0144ski and Gustavo Guti\u00e9rrez Merino\n  * 2004: Jean Daniel\n  * 2005: Alliance fran\u00e7aise, Societ\u00e0 Dante Alighieri, British Council, Goethe-Institut, Instituto Cervantes and Instituto Cam\u00f5es\n  * 2006: National Geographic Society\n  * 2007: Nature and Science journals\n  * 2008: Google\n  * 2009: National Autonomous University of Mexico\n  * 2010: Alain Touraine and Zygmunt Bauman\n  * 2011: Royal Society\n  * 2012: Shigeru Miyamoto\n  * 2013: Annie Leibovitz\n  * 2014: Quino   \n| Princess of Asturias Award for Communication and Humanities  \n---  \n  \n  * 2015: Emilio Lled\u00f3 \u00cd\u00f1igo\n  * 2016: James Nachtwey\n  * 2017: Les Luthiers\n  * 2018: Alma Guillermoprieto\n  * 2019: Museo del Prado\n  * 2020: Guadalajara International Book Fair and Hay Festival of Literature & Arts\n  * 2021: Gloria Steinem\n  * 2022: Adam Michnik\n  * 2023: Nuccio Ordine\n  * 2024: Marjane Satrapi   \n  \nshow   * v\n  * t\n  * e Electronics industry in the United States  \n---  \nCompanies| | Home appliances|  Arts\n  * 2021: Gloria Steinem\n  * 2022: Adam Michnik\n  * 2023: Nuccio Ordine\n  * 2024: Marjane Satrapi   \n  \nshow   * v\n  * t\n  * e Electronics industry in the United States  \n---  \nCompanies| | Home appliances|",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\": []}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Google",
+        "output_data": {
+            "subsidiaries": [
+                "Actel",
+                "Atari Corporation",
+                "Commodore",
+                "Compaq",
+                "Fairchild",
+                "Freescale",
+                "LSI",
+                "Microsemi",
+                "National Semiconductor",
+                "Palm",
+                "Philco",
+                "RCA",
+                "Signetics",
+                "Silicon Graphics",
+                "Solectron",
+                "Sun Microsystems",
+                "Zenith Electronics"
+            ],
+            "associated_domains": [
+                "ISNI",
+                "VIAF",
+                "Norway",
+                "France",
+                "BnF data",
+                "Catalonia",
+                "Germany",
+                "Israel",
+                "United States",
+                "Sweden",
+                "Czech Republic",
+                "Australia",
+                "Museum of Modern Art",
+                "Trove",
+                "IdRef",
+                "Te Papa (New Zealand)"
+            ]
+        },
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".com",
+            ".net",
+            ".org",
+            ".biz",
+            ".info",
+            ".name",
+            ".pro",
+            ".app",
+            ".day",
+            ".dev",
+            ".how",
+            ".page"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "www.google.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Charleston Road Registry Inc."
+        ],
+        "associated_domains": [
+            ".google",
+            ".youtube",
+            ".docs",
+            ".lol",
+            ".drive",
+            ".search",
+            ".play",
+            "\u062c\u0648\u062c\u0644.\u0634\u0628\u0643\u0629"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".cloud",
+            ".app",
+            ".search",
+            ".blog"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".BLOG",
+            ".MUSIC",
+            ".CLOUD",
+            ".film",
+            ".movie",
+            ".mov",
+            ".live",
+            ".show",
+            ".tube",
+            ".app",
+            ".search"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".ie"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "google.cn"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".app",
+            ".baby",
+            ".blog",
+            ".book",
+            ".buy",
+            ".cloud",
+            ".corp",
+            ".cpa",
+            ".dds",
+            ".dev",
+            ".diy",
+            ".docs",
+            ".dog",
+            ".dot",
+            ".drive",
+            ".earth",
+            ".family",
+            ".film",
+            ".free",
+            ".fun",
+            ".fyi",
+            ".game",
+            ".gmbh",
+            ".goo",
+            ".home",
+            ".inc",
+            ".live",
+            ".llc",
+            ".llp",
+            ".lol",
+            ".love",
+            ".mail",
+            ".map",
+            ".mba",
+            ".med",
+            ".mom",
+            ".moto",
+            ".movie",
+            ".music",
+            ".pet",
+            ".phd",
+            ".play",
+            ".plus",
+            ".search",
+            ".shop",
+            ".show",
+            ".site",
+            ".spot",
+            ".srl",
+            ".store",
+            ".talk",
+            ".team",
+            ".tech",
+            ".tube",
+            ".vip",
+            ".web",
+            ".wow",
+            ".you",
+            ".ads",
+            ".and",
+            ".android",
+            ".are",
+            ".boo",
+            ".cal",
+            ".car",
+            ".channel",
+            ".chrome",
+            ".dad",
+            ".day",
+            ".dclk",
+            ".eat",
+            ".esq",
+            ".est",
+            ".fly",
+            ".foo",
+            ".gbiz",
+            ".gle",
+            ".gmail",
+            ".goog",
+            ".google",
+            ".guge",
+            ".hangout",
+            ".here",
+            ".how",
+            ".ing",
+            ".kid",
+            ".meme",
+            ".mov",
+            ".new",
+            ".nexus",
+            ".page",
+            ".prod",
+            ".prof",
+            ".rsvp",
+            ".soy",
+            ".tour",
+            ".youtube",
+            ".zip",
+            ".\u307f\u3093\u306a",
+            ".\u30b0\u30fc\u30b0\u30eb",
+            ".\u8c37\u6b4c"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Deja Usenet",
+            "Blogger.com",
+            "Urchin",
+            "Writely",
+            "Android",
+            "JotSpot",
+            "Doubleclick",
+            "Aardvark",
+            "YouTube",
+            "Picnik",
+            "Admob",
+            "reCaptcha",
+            "Slide",
+            "ITA Software"
+        ],
+        "associated_domains": [
+            "g.co",
+            "g.co.uk",
+            "goggle.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "Registry.Google",
+                ".LOL",
+                ".YouTube"
+            ]
+        }
+    }
+]
+None
+[
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "AboutStore Gmail Images Sign in ![\\\\\\\"Google\\\\\\\"](\\\\\\\"/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png\\\\\\\") Choose what you\u2019re giving feedback on * See more Delete * * Delete Report inappropriate predictions Google offered in: \u0939\u093f\u0928\u094d\u0926\u0940 \u09ac\u09be\u0982\u09b2\u09be \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u092e\u0930\u093e\u0920\u0940 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0 \u0c95\u0ca8\u0ccd\u0ca8\u0ca1 \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02 \u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 India AdvertisingBusiness How Search works PrivacyTerms Settings Search settings Advanced search Your data in Search Search history Search help Send feedback Dark theme: Off Google apps",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "google.com"
+            ]
+        },
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [
+            "Android",
+            "AdSense",
+            "Analytics",
+            "Ara",
+            "AdMob",
+            "Alerts",
+            "Blogger",
+            "Boston Dynamics",
+            "Books",
+            "Calico",
+            "Cardboard",
+            "Capital",
+            "Drive",
+            "DeepMind",
+            "Design",
+            "DoubleClick",
+            "Earth",
+            "Express",
+            "Fiber",
+            "Fi",
+            "Flights",
+            "FeedBurner",
+            "Firebase",
+            "Finance",
+            "Google",
+            "Gmail",
+            "Glass",
+            "Groups",
+            "Hangouts",
+            "Images",
+            "Ingress",
+            "Inbox",
+            "Invite Media",
+            "Jump",
+            "Keep",
+            "Life Sciences",
+            "Local",
+            "Loon",
+            "Maps",
+            "My Business",
+            "Makani",
+            "Nest",
+            "News",
+            "Nexus",
+            "Now",
+            "Offers",
+            "Plus",
+            "Play"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Android Auto",
+            "Android Messages",
+            "Android OS",
+            "Android One",
+            "Android Phones",
+            "Android Tablets",
+            "Calendar",
+            "Cardboard",
+            "Chrome",
+            "Chrome Web Store",
+            "Chromebook",
+            "Chromecast",
+            "Contacts",
+            "Daydream View",
+            "Docs",
+            "Drive",
+            "Earth",
+            "Finance",
+            "Forms",
+            "Gboard",
+            "Gmail",
+            "Google Alerts",
+            "Google Allo",
+            "Google Cast",
+            "Google Classroom",
+            "Google Cloud Print",
+            "Google Duo",
+            "Google Expeditions",
+            "Google Express",
+            "Google Fit",
+            "Google Flights",
+            "Google Fonts",
+            "Google Groups",
+            "Google Home",
+            "Google One",
+            "Google Pay",
+            "Google Play",
+            "Google Play Apps",
+            "Google Play Books",
+            "Google Play Games",
+            "Google Play Movies & TV",
+            "Google Play Music",
+            "Google Store",
+            "Google Street View",
+            "Google Wifi",
+            "Google for Education",
+            "Google+",
+            "Hangouts",
+            "Inbox by Gmail",
+            "Keep",
+            "Maps",
+            "News",
+            "Photos",
+            "Pixel"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Android",
+            "AdSense",
+            "Analytics",
+            "Ara",
+            "AdMob",
+            "Alerts",
+            "Blogger",
+            "Boston Dynamics",
+            "Books",
+            "Calico",
+            "Cardboard",
+            "Capital",
+            "Drive",
+            "DeepMind",
+            "Design",
+            "DoubleClick",
+            "Earth",
+            "Express",
+            "Fiber",
+            "Fi",
+            "Flights",
+            "FeedBurner",
+            "Firebase",
+            "Finance",
+            "Google",
+            "Gmail",
+            "Glass",
+            "Groups",
+            "Hangouts",
+            "Images",
+            "Ingress",
+            "Inbox",
+            "Invite Media",
+            "Jump",
+            "Keep",
+            "Life Sciences",
+            "Local",
+            "Loon",
+            "Maps",
+            "My Business",
+            "Makani",
+            "Nest",
+            "News",
+            "Nexus",
+            "Now",
+            "Offers",
+            "Plus",
+            "Play",
+            "Photos",
+            "Picasa",
+            "Pixate",
+            "Patents",
+            "(Nexus) Q",
+            "Refine",
+            "reCaptcha",
+            "Search",
+            "Shopping",
+            "SageTV",
+            "Stackdriver",
+            "Skybox",
+            "Skia",
+            "Scholar",
+            "Translate",
+            "Tango",
+            "Voice",
+            "Ventures",
+            "VirusTotal",
+            "Video",
+            "Wallet",
+            "Wing",
+            "X Labs",
+            "YouTube",
+            "Project Z",
+            "Zagat"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Android",
+            "YouTube",
+            "Waze",
+            "Nest Labs",
+            "Google",
+            "Calico"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Android Auto",
+            "Android Messages",
+            "Android OS",
+            "Android One",
+            "Android Phones",
+            "Android Tablets",
+            "Calendar",
+            "Cardboard",
+            "Chrome",
+            "Chrome Web Store",
+            "Chromebook",
+            "Chromecast",
+            "Contacts",
+            "Daydream View",
+            "Docs",
+            "Drive",
+            "Earth",
+            "Finance",
+            "Forms",
+            "Gboard",
+            "Gmail",
+            "Google Alerts",
+            "Google Allo",
+            "Google Cast",
+            "Google Classroom",
+            "Google Cloud Print",
+            "Google Duo",
+            "Google Expeditions",
+            "Google Express",
+            "Google Fit",
+            "Google Flights",
+            "Google Fonts",
+            "Google Groups",
+            "Google Home",
+            "Google One",
+            "Google Pay",
+            "Google Play",
+            "Google Play Apps",
+            "Google Play Books",
+            "Google Play Games",
+            "Google Play Movies & TV",
+            "Google Play Music",
+            "Google Store",
+            "Google Street View",
+            "Google Wifi",
+            "Google for Education",
+            "Google+",
+            "Hangouts",
+            "Inbox by Gmail",
+            "Keep",
+            "Maps",
+            "News",
+            "Photos",
+            "Pixel 2",
+            "Play Protect",
+            "Project Fi",
+            "Scholar",
+            "Search",
+            "Sheets",
+            "Sites",
+            "Slides",
+            "Tilt Brush",
+            "Translate",
+            "Trips",
+            "Voice",
+            "Waze",
+            "Wear OS by Google",
+            "YouTube",
+            "YouTube Gaming",
+            "YouTube Kids",
+            "YouTube TV"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "YouTube",
+            "Android",
+            "Google Cloud Platform",
+            "Google Fiber",
+            "Waymo",
+            "Nest",
+            "Verily",
+            "X (formerly Google X)"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Calico",
+            "Wing"
+        ],
+        "associated_domains": [
+            "search",
+            "ads",
+            "maps",
+            "YouTube",
+            "Google Play Store",
+            "Android"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google Ads",
+            "Android",
+            "Chrome",
+            "Google Cloud",
+            "Google for Education",
+            "Gmail",
+            "Google Maps",
+            "Google Photos"
+        ],
+        "associated_domains": [
+            "https://www.bloomberg.com/opinion/articles/2017-11-15/the-big-five-could-destroy-the-tech-ecosystem",
+            "https://www.bbc.com/news/business-42060091"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google Inc."
+        ],
+        "associated_domains": [
+            "https://www.bbc.com/news/business-42060091",
+            "https://www.bloomberg.com/opinion/articles/2017-11-15/the-big-five-could-destroy-the-tech-ecosystem"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Alphabet"
+        ],
+        "associated_domains": [
+            "https://about.google/products"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google Inc."
+        ],
+        "associated_domains": [
+            "https://about.google/products"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Alphabet",
+            "Android",
+            "AdSense",
+            "Analytics",
+            "Ara",
+            "AdMob",
+            "Alerts",
+            "Blogger",
+            "Boston Dynamics",
+            "Books",
+            "Calico",
+            "Cardboard",
+            "Capital",
+            "Drive",
+            "DeepMind",
+            "Design",
+            "DoubleClick",
+            "Earth",
+            "Express",
+            "Fiber",
+            "Fi",
+            "Flights",
+            "FeedBurner",
+            "Firebase",
+            "Finance",
+            "Google",
+            "Gmail",
+            "Glass",
+            "Groups",
+            "Hangouts",
+            "Images",
+            "Ingress",
+            "Inbox",
+            "Invite Media",
+            "Jump",
+            "Keep",
+            "Life Sciences",
+            "Local",
+            "Loon",
+            "Maps",
+            "My Business",
+            "Makani",
+            "Nest",
+            "News",
+            "Nexus",
+            "Now",
+            "Offers",
+            "Plus",
+            "Play",
+            "Photos",
+            "Picasa",
+            "Pixate",
+            "Patents",
+            "(Nexus) Q",
+            "Refine",
+            "reCaptcha",
+            "Search",
+            "Shopping",
+            "SageTV",
+            "Stackdriver",
+            "Skybox",
+            "Skia",
+            "Scholar",
+            "Translate",
+            "Tango",
+            "Voice",
+            "Ventures",
+            "VirusTotal",
+            "Video",
+            "Wallet",
+            "Wing",
+            "X Labs",
+            "YouTube",
+            "Project Z",
+            "Zagat"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Youtube"
+        ],
+        "associated_domains": [
+            "Amazon",
+            "LG",
+            "Audi",
+            "Hyundai",
+            "Honda",
+            "Hulu",
+            "Starbucks",
+            "American Airlines",
+            "Delta",
+            "Tesla",
+            "Facebook"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "CapitalG",
+            "DeepMind",
+            "GV",
+            "Intrinsic",
+            "Isomorphic Labs",
+            "Verily",
+            "Waymo",
+            "Wing"
+        ],
+        "associated_domains": [
+            "venture capital",
+            "artificial intelligence",
+            "venture capital",
+            "self-driving cars",
+            "virtual reality",
+            "health care",
+            "self-driving cars",
+            "delivery drones"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google Inc.",
+            "Alphabet Inc."
+        ],
+        "associated_domains": [
+            "Google Search/AdWords",
+            "Google Commerce/Wallet",
+            "Google Maps",
+            "Google Drive",
+            "Android",
+            "Google Chrome",
+            "Google Play",
+            "YouTube",
+            "AdSense"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google Inc.",
+            "Alphabet Inc."
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google",
+            "X",
+            "CapitalG",
+            "GV"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "Twitter",
+            "Bloomberg",
+            "Chevron Corporation",
+            "Target",
+            "eBay",
+            "PayPal",
+            "The New York Times",
+            "Neilsen",
+            "Deloitte",
+            "Ticketmaster"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Alphabet",
+            "Android",
+            "AdSense",
+            "Analytics",
+            "Ara",
+            "AdMob",
+            "Alerts",
+            "Blogger",
+            "Boston Dynamics",
+            "Books",
+            "Calico",
+            "Cardboard",
+            "Capital",
+            "Drive",
+            "DeepMind",
+            "Design",
+            "DoubleClick",
+            "Earth",
+            "Express",
+            "Fiber",
+            "Fi",
+            "Flights",
+            "FeedBurner",
+            "Firebase",
+            "Finance",
+            "Google",
+            "Gmail",
+            "Glass",
+            "Groups",
+            "Hangouts",
+            "Images",
+            "Ingress",
+            "Inbox",
+            "Invite Media",
+            "Jump",
+            "Keep",
+            "Life Sciences",
+            "Local",
+            "Loon",
+            "Maps",
+            "My Business",
+            "Makani",
+            "Nest",
+            "News",
+            "Nexus",
+            "Now",
+            "Offers",
+            "Plus",
+            "Play",
+            "Photos",
+            "Picasa",
+            "Pixate",
+            "Patents",
+            "(Nexus) Q",
+            "Refine",
+            "reCaptcha",
+            "Search",
+            "Shopping",
+            "SageTV",
+            "Stackdriver",
+            "Sky"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Alphabet Inc.",
+            "Charleston Road Registry",
+            "Google India Pvt Ltd",
+            "YouTube LLC",
+            "DoubleClick"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "http://productforums.google.com/forum/#!topic/business/Arqbn99APjI",
+            "http://www.whycall.me/562-387-1004.html"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Alphabet",
+            "Android",
+            "AdSense",
+            "Analytics",
+            "Ara",
+            "AdMob",
+            "Alerts",
+            "Blogger",
+            "Boston Dynamics",
+            "Books",
+            "Calico",
+            "Cardboard",
+            "Capital",
+            "Drive",
+            "DeepMind",
+            "Design",
+            "DoubleClick",
+            "Earth",
+            "Express",
+            "Fiber",
+            "Fi",
+            "Flights",
+            "FeedBurner",
+            "Firebase",
+            "Finance",
+            "Google",
+            "Gmail",
+            "Glass",
+            "Groups",
+            "Hangouts",
+            "Images",
+            "Ingress",
+            "Inbox",
+            "Invite Media",
+            "Jump",
+            "Keep",
+            "Life Sciences",
+            "Local",
+            "Loon",
+            "Maps",
+            "My Business",
+            "Makani",
+            "Nest",
+            "News",
+            "Nexus",
+            "Now",
+            "Offers",
+            "Plus",
+            "Play",
+            "Photos",
+            "Picasa",
+            "Pixate",
+            "Patents",
+            "(Nexus) Q",
+            "Refine",
+            "reCaptcha",
+            "Search",
+            "Shopping",
+            "SageTV",
+            "Stackdriver",
+            "Skybox",
+            "Skia",
+            "Scholar",
+            "Translate",
+            "Tango",
+            "Voice",
+            "Ventures",
+            "VirusTotal",
+            "Video",
+            "Wallet",
+            "Wing",
+            "X Labs",
+            "YouTube",
+            "Project Z",
+            "Zagat"
+        ],
+        "associated_domains": [
+            "http://fbrpms.com/",
+            "http://www.yelp.com/careers?job_id=7701ed4c-417f-4720-8fda-afcec200bc78",
+            "https://www.uber.com/jobs/87490",
+            "https://careers.yahoo.com/us/students/content/1729"
+        ],
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "SAP on Google Cloud",
+            "Windows on Google Cloud",
+            "Red Hat on Google Cloud"
+        ],
+        "associated_domains": [
+            "cloud.google.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "cloud.google.com",
+            "gstatic.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "cloud.google.com",
+            "gstatic.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Datastream",
+            "Database Migration Service",
+            "Bare Metal Solution",
+            "Memorystore",
+            "Artifact Registry",
+            "Cloud Code",
+            "Cloud Build",
+            "Cloud Deploy",
+            "Cloud Deployment Manager",
+            "Cloud SDK",
+            "Cloud Scheduler",
+            "Cloud Source Repositories",
+            "Infrastructure Manager",
+            "Cloud Workstations",
+            "Gemini Code Assist",
+            "Google Distributed Cloud Connected",
+            "Google Distributed Cloud Air-gapped",
+            "Google Kubernetes Engine",
+            "Apigee API Management",
+            "Migrate to Containers",
+            "Traffic Director",
+            "Operations",
+            "Google Distributed Cloud",
+            "Anti Money Laundering AI"
+        ],
+        "associated_domains": [
+            "cloud.google.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [
+                "Vertex AI Platform",
+                "Vertex AI Studio",
+                "Vertex AI Agent Builder",
+                "Dialogflow",
+                "Natural Language AI",
+                "Speech-to-Text",
+                "Text-to-Speech",
+                "Translation AI",
+                "Document AI",
+                "Vision AI",
+                "Contact Center AI",
+                "Looker",
+                "Looker Studio",
+                "Compute Engine",
+                "App Engine",
+                "Cloud GPUs",
+                "Migrate to Virtual Machines",
+                "Spot VMs",
+                "Batch",
+                "Sole-Tenant Nodes",
+                "Bare Metal",
+                "Recommender",
+                "VMware Engine",
+                "Cloud Run"
+            ],
+            "associated_domains": [
+                "https://www.gstatic.com/cloud/images/navigation/forward.svg"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [
+                "Config Connector",
+                "Active Assist",
+                "Earth Engine",
+                "Google Maps Platform",
+                "Cloud CDN",
+                "Live Stream API",
+                "OpenCue",
+                "Transcoder API",
+                "Video Stitcher API",
+                "Migration Center",
+                "Application Migration",
+                "Migrate to Virtual Machines",
+                "Cloud Foundation Toolkit",
+                "Database Migration Service",
+                "Migrate to Containers",
+                "BigQuery Data Transfer Service",
+                "Rapid Migration and Modernization Program",
+                "Transfer Appliance",
+                "Storage Transfer Service",
+                "VMware Engine",
+                "Immersive Stream for XR",
+                "Cloud Armor"
+            ],
+            "associated_domains": [
+                "cloud.google.com",
+                "gstatic.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Enable sustainable, efficient, and resilient data-driven operations across\nsupply chain and logistics operations.   * ![\\\\\\\"\\\\\\\"](\\\\\\\"https://www.gstatic.com/cloud/images/navigation/government.svg\\\\\\\") Government Data storage, AI, and analytics solutions for government agencies.   * ![\\\\\\\"\\\\\\\"](\\\\\\\"https://www.gstatic.com/cloud/images/navigation/icon-sprite.svg#education\\\\\\\") Education Teaching tools to provide more engaging learning experiences.   * Not seeing what you\\\\'re looking for?\n  * See all industry solutions    * Not seeing what you\\\\'re looking for?\n  * See all solutions    * ![\\\\\\\"\\\\\\\"](\\\\\\\"https://www.gstatic.com/cloud/images/navigation/forward.svg\\\\\\\") Application Modernization Assess, plan, implement, and measure software practices and capabilities to\nmodernize and simplify your organization\u2019s business application portfolios.   * CAMP  Program that uses DORA to improve your software delivery capabilities.   * Modernize Traditional Applications  Analyze, categorize, and get started with cloud migration on traditional\nworkloads.   * Migrate from PaaS: Cloud Foundry, Openshift  Tools for moving your existing containers into Google\\\\'s managed container\nservices.   * Migrate from Mainframe  Automated tools and prescriptive guidance for moving your mainframe apps to\nthe cloud.   * Modernize Software Delivery  Software supply chain best practices - innerloop productivity, CI/CD and S3C.   * DevOps Best Practices  Processes and resources for implementing DevOps in your org.   * SRE Principles  Tools and resources for adopting SRE in your org.   * Day 2 Operations for GKE  Tools and guidance for effective GKE management and monitoring.   * FinOps and Optimization of GKE  Best practices for running reliable, performant, and cost effective\napplications on GKE.   * Run Applications at the Edge  Guidance for localized and low latency apps on Google\u2019s hardware agnostic edge\nsolution.   * Architect for Multicloud  Manage workloads across multiple clouds with a consistent platform.   * Go Serverless  Fully managed environment for developing, deploying and scaling apps.   * ![\\\\\\\"\\\\\\\"](\\\\\\\"https://www.gstatic.com/cloud/images/navigation/forward.svg\\\\\\\") Artificial Intelligence Add intelligence and efficiency to your business with AI and machine learning.   * Contact Center AI  AI model for speaking with customers and assisting human agents.   * Document AI  Document processing and data capture automated at scale.   * Vertex AI Search for retail  Google-quality search and product recommendations for retailers.   * Gemini for Google Cloud  AI assistants for application development, coding, and more. and assisting human agents.   * Document AI  Document processing and data capture automated at scale.   * Vertex AI Search for retail  Google-quality search and product recommendations for retailers.   * Gemini for Google Cloud  AI assistants for application development, coding, and more.",
+        "output_data": {
+            "subsidiaries": [
+                "Government",
+                "Education",
+                "Application Modernization",
+                "CAMP",
+                "Modernize Traditional Applications",
+                "Migrate from PaaS: Cloud Foundry, Openshift",
+                "Migrate from Mainframe",
+                "Modernize Software Delivery",
+                "DevOps Best Practices",
+                "SRE Principles",
+                "Day 2 Operations for GKE",
+                "FinOps and Optimization of GKE",
+                "Run Applications at the Edge",
+                "Architect for Multicloud",
+                "Go Serverless",
+                "Artificial Intelligence",
+                "Contact Center AI",
+                "Document AI",
+                "Vertex AI Search for retail",
+                "Gemini for Google Cloud"
+            ],
+            "associated_domains": [
+                "https://www.gstatic.com/cloud/images/navigation/government.svg",
+                "https://www.gstatic.com/cloud/images/navigation/icon-sprite.svg#education",
+                "https://www.gstatic.com/cloud/images/navigation/forward.svg"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Cloud CDN",
+            "Media CDN",
+            "Cloud DNS",
+            "Cloud Load Balancing",
+            "Cloud NAT",
+            "Cloud Connectivity",
+            "Network Connectivity Center",
+            "Network Intelligence Center",
+            "Network Service Tiers",
+            "Virtual Private Cloud",
+            "Private Service Connect",
+            "Cloud Logging",
+            "Cloud Monitoring",
+            "Error Reporting",
+            "Cloud Debugger",
+            "Cloud Trace",
+            "Cloud Profiler",
+            "Cloud Quotas",
+            "AppSheet",
+            "AppSheet Automation",
+            "Google Workspace",
+            "Google Workspace Essentials",
+            "Gemini for Workspace",
+            "Cloud Identity",
+            "Chrome Enterprise"
+        ],
+        "associated_domains": [
+            "cloud.google.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Mandiant Managed Defense",
+            "Mandiant Incident Response",
+            "Mandiant Consulting"
+        ],
+        "associated_domains": [
+            "cloud.google.com",
+            "gstatic.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Explore benefits of working with a partner.   * Become a partner  Join the Partner Advantage program. Docs  Support  More / Docs  Support   * English\n  * Deutsch\n  * Espa\u00f1ol \u2013 Am\u00e9rica Latina\n  * Fran\u00e7ais\n  * Indonesia\n  * Italiano\n  * Portugu\u00eas \u2013 Brasil\n  * \u4e2d\u6587 \u2013 \u7b80\u4f53\n  * \u65e5\u672c\u8a9e\n  * \ud55c\uad6d\uc5b4 Sign in   * Cloud Architecture Center  Contact Us Start free ![\\\\\\\"Google](\\\\\\\"https://www.gstatic.com/devrel-\ndevsite/prod/vc7080045e84cd2ce1faf7f7a3876037748d52d088e5100df2e949d051a784791/cloud/images/cloud-\nlogo.svg\\\\\\\"/)   *    * Overview \n    * More \n  * Solutions \n    * More \n  * Products \n    * More \n  * Pricing \n    * More \n  * Resources \n    * More \n  * Docs \n  * Support \n  * Console \n  * Contact Us \n  * Start free    * < Architecture Center home\n  * What\\\\'s new\n  * Fundamentals      * Content overview\n    * Architecture Framework        * Overview\n      * What\\\\'s new\n      * System design          * Overview\n        * Core principles\n        * Choose deployment archetypes\n        * Select zones and regions\n        * Manage cloud resources\n        * Choose and manage compute\n        * Design your network infrastructure\n        * Implement a storage strategy\n        * Optimize your database\n        * Analyze your data\n        * Implement machine learning\n        * Design for sustainability       * Operational excellence     * Optimize your database\n        * Analyze your data\n        * Implement machine learning\n        * Design for sustainability       * Operational excellence",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "cloud.google.com",
+                "gstatic.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Observable infrastructure and apps\nDesign for scale and HA\nOperational processes and tools\nBuild efficient alerts\nIncident management process\nProduct guides\nOverview\nCompute\nCompute Engine\nCloud Run\nCloud Functions\nGoogle Kubernetes Engine\nStorage and Databases\nCloud Storage\nFirestore\nCloud Bigtable\nCloud SQL\nCloud Spanner\nFilestore\nMemorystore\nNetworking\nCloud DNS\nCloud Load Balancing\nCloud CDN\nData Analytics\nBigQuery\nDataflow\nDataproc\nCost optimization\nBigQuery\nDataflow\nDataproc\nCost optimization",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Service for centralized, application-consistent data protection.   * ![\\\\\\\"\\\\\\\"](\\\\\\\"https://www.gstatic.com/cloud/images/navigation/forward.svg\\\\\\\") Web3   * Blockchain Node Engine  Fully managed node hosting for developing on the blockchain. Pricing close   * Save money with our transparent approach to pricing\n  * Google Cloud\\\\'s pay-as-you-go pricing offers automatic savings based on monthly usage and discounted rates for prepaid resources. Contact us today to get a quote.\n  * Request a quote    * Pricing overview and tools\n  * Google Cloud pricing  Pay only for what you use with no lock-in.   * Pricing calculator  Calculate your cloud savings.   * Google Cloud free tier  Explore products with free monthly usage.   * Cost optimization framework  Get best practices to optimize workload costs.   * Cost management tools  Tools to monitor and control your costs.   * Product-specific Pricing\n  * Compute Engine    * Cloud SQL    * Google Kubernetes Engine    * Cloud Storage    * BigQuery    * See full price list with 100+ products  Resources close   * Learn & build\n  * Google Cloud Free Program  $300 in free credits and 20+ free products.   * Quickstarts  Get tutorials and walkthroughs.   * Cloud computing basics  Learn more about cloud computing topics.   * Blog  Read our latest product news and stories.   * Learning Hub  Grow your career with role-based learning   * Training  Enroll in on-demand or classroom training.   * Certification  Prepare and register for certifications.   * Cloud Architecture Center  Get reference architectures and best practices.   * Connect\n  * Innovators  Join Google Cloud\\\\'s developer program.   * Developer Center  Stay in the know and stay connected.   * Events and webinars  Browse upcoming and on demand events.   * Google Cloud Community  Ask questions, find answers, and connect.   * Google Cloud Consulting\n  * Google Cloud Consulting  Work with our experts on cloud projects.   * Google Cloud Marketplace  Deploy ready-to-go solutions in a few clicks.   * Google Cloud partners  Google Cloud Community  Ask questions, find answers, and connect.   * Google Cloud Consulting\n  * Google Cloud Consulting  Work with our experts on cloud projects.   * Google Cloud Marketplace  Deploy ready-to-go solutions in a few clicks.   * Google Cloud partners",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\": [\"cloud.google.com\", \"gstatic.com\"]}",
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Decide network design\nImplement network design\nDecide security\nEnterprise foundations blueprint\nOverview\nArchitecture\nAuthentication and authorization\nOrganization structure\nNetworking\nDetective controls\nPreventative controls\nDeployment methodology\nOperations best practices\nDeploy the blueprint\nView in one page\nAI and machine learning\nContent overview\nGenerative AI\nGenerative AI document summarization\nGenerative AI RAG with Cloud SQL\nGenerative AI knowledge base\nInfrastructure for a RAG-capable generative AI application using GKE\nInfrastructure for a RAG-capable generative AI application using Vertex AI\nUse generative AI for utilization management\nModel training\nBest practices for implementing machine learning on Google Cloud\nCross-silo and cross-device federated learning on Google Cloud\nModel development and data labeling with Google Cloud and Labelbox\nMLOps\nDeploy an enterprise AI and ML model\nMLOps using TensorFlow Extended, Vertex AI Pipelines, and Cloud Build\nGuidelines for high-quality, predictive ML solutions\nAI and ML applications\nAI/ML image processing on Cloud Functions\nBuild an ML vision analytics solution with Dataflow and Cloud Vision API\nGuidelines for high-quality, predictive ML solutions\nAI and ML applications\nAI/ML image processing on Cloud Functions\nBuild an ML vision analytics solution with Dataflow and Cloud Vision API",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Reference architecture\n        * Deploy the architecture       * Design storage for AI and ML workloads in Google Cloud\n      * Scalable TensorFlow inference system          * Reference architecture\n        * Deploy the architecture\n        * Measure and tune the deployment       * Serve Spark ML models using Vertex AI\n      * Use Vertex AI Pipelines for propensity modeling on Google Cloud     * Third-party product integrations        * C3 AI architecture on Google Cloud   * Application development      * Content overview\n    * Development approaches and styles        * Microservices overview          * Overview\n        * Refactor a monolith into microservices\n        * Interservice communication in a microservices setup\n        * Distributed tracing in a microservices application       * Patterns for scalable and resilient apps\n      * Twelve-factor app development on Google Cloud     * Development platform management        * Deploy an enterprise developer platform          * Overview\n        * Architecture\n        * Developer platform controls\n        * Service architecture\n        * Logging and monitoring\n        * Operations\n        * Costs and attributions\n        * Deployment methodology\n        * Cymbal Bank example\n        * Mapping BeyondProd principles\n        * Deploy the blueprint    * Costs and attributions\n        * Deployment methodology\n        * Cymbal Bank example\n        * Mapping BeyondProd principles\n        * Deploy the blueprint",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\": []}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Reference architecture\n        * Deploy the architecture       * Data transformation between MongoDB and Google Cloud          * Reference architecture\n        * Deploy the architecture     * Analyze data        * Analyze FHIR data in BigQuery\n      * Data science with R: exploratory data analysis\n      * Geospatial analytics   * Databases      * Content overview\n    * Database availability        * High availability of MySQL clusters on Compute Engine     * Multi-cloud database management   * Hybrid and multicloud      * Content overview\n    * Build hybrid and multicloud architectures        * Overview\n      * Drivers, considerations, strategy, and patterns\n      * Plan a hybrid and multicloud strategy\n      * Architectural approaches to adopt a hybrid or multicloud architecture\n      * Other considerations\n      * What\\\\'s next\n      * View the guide as a single page     * Hybrid and multicloud architecture patterns        * Overview\n      * Distributed architecture patterns\n      * Tiered hybrid pattern\n      * Partitioned multicloud pattern\n      * Analytics hybrid and multicloud patterns\n      * Edge hybrid pattern\n      * Environment hybrid pattern\n      * Business continuity hybrid and multicloud patterns\n      * Cloud bursting pattern\n      * What\\\\'s next\n      * View the guide as a single page     * Hybrid and multicloud secure networking architecture patterns  * Business continuity hybrid and multicloud patterns\n      * Cloud bursting pattern\n      * What\\\\'s next\n      * View the guide as a single page     * Hybrid and multicloud secure networking architecture patterns",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Migrating on-premises Hadoop to Google Cloud * Overview\n * Data * Overview\n * Validating data transfers * Jobs * Migrating Hadoop Jobs from On-Premises to Google Cloud Platform\n * Migrating Apache Spark Jobs to Cloud Dataproc * Security * Security Guide\n * Architecture for connecting visualization software to Hadoop on Google Cloud\n * Connecting visualization software to Hadoop on Google Cloud\n * Kerberized data lake on Dataproc * Networks for migrating enterprise workloads * Architectural approaches\n * Networking for secure intra-cloud access\n * Networking for internet-facing application delivery\n * Networking for hybrid and multicloud workloads * Use RIOT Live Migration to migrate to Redis Enterprise Cloud * Reference architecture\n * Deploy the architecture\n * Define migration scope * Monitoring and logging * Content overview\n * Export logs and metrics * Cloud Monitoring metric export\n * Import logs from Cloud Storage to Cloud Logging * Reference architecture\n * Deploy the architecture * Stream logs from Google Cloud to Splunk * Import logs from Cloud Storage to Cloud Logging * Reference architecture\n * Deploy the architecture * Stream logs from Google Cloud to Splunk",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Best practices for securing your applications and APIs using Apigee\nDesign secure deployment pipelines\nUse Google Cloud Armor, load balancing, and Cloud CDN to deploy programmable global front ends\nSecured serverless architecture\nArchitecture using Cloud Functions\nArchitecture using Cloud Run\nAuthentication and authorization\nManage just-in-time privileged access to projects\nCompliance\nConfigure networks for FedRAMP and DoD in Google Cloud\nGoogle Cloud FedRAMP implementation guide\nLimit scope of compliance for PCI environments in Google Cloud\nPCI Data Security Standard compliance\nPCI DSS compliance on GKE\nSecurity blueprint: PCI on GKE\nData and identity protection\nConfigure SaaS data protection for Google Workspace data with SpinOne\nDe-identification and re-identification of PII in large-scale datasets using Cloud DLP\nEmbedded finance solution with Cloudentity\nReference architecture\nDeploy the architecture\nImport data into a secured BigQuery data warehouse\nImport from a Google Cloud source\nImport from an external source\nSecurity log analytics in Google Cloud\nMitigation and avoidance\nAutomate malware scanning for files uploaded to Cloud Storage\nReference architecture\nDeploy the architecture Google Cloud\nMitigation and avoidance\nAutomate malware scanning for files uploaded to Cloud Storage\nReference architecture\nDeploy the architecture",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Best practices for mitigating compromised OAuth tokens for Google Cloud CLI\nBest practices for protecting against cryptocurrency mining attacks\nMitigate ransomware attacks          * Overview\n        * Best practices       * OWASP Top 10 2021 mitigation options on Google Cloud\n      * Identify and prioritize security risks with Wiz Security Graph and Google Cloud     * Network security        * Secure virtual private cloud networks with the Palo Alto VM-Series NGFW   * Storage      * Content overview\n    * Design an optimal storage strategy for your cloud workload\n    * Storage applications        * Deploy a kernel space NFS caching proxy in Compute Engine\n      * File storage on Compute Engine\n      * Lustre file system in Google Cloud using DDN EXAScaler\n      * Parallel file systems for HPC workloads     * Third-party product integrations        * NetApp Cloud Volumes Service          * Overview\n        * Concepts    * Parallel file systems for HPC workloads     * Third-party product integrations        * NetApp Cloud Volumes Service          * Overview\n        * Concepts",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Accelerate your digital transformation \n  * Learn more \n  * Key benefits \n  * Why Google Cloud \n  * AI and ML \n  * Multicloud \n  * Global infrastructure \n  * Data Cloud \n  * Open cloud \n  * Security \n  * Productivity and collaboration \n  * Reports and insights \n  * Executive insights \n  * Analyst reports \n  * Whitepapers \n  * Customer stories   * Global infrastructure \n  * Data Cloud \n  * Open cloud \n  * Security \n  * Productivity and collaboration \n  * Reports and insights \n  * Executive insights \n  * Analyst reports \n  * Whitepapers \n  * Customer stories",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "example.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Save money with our transparent approach to pricing \n  * Request a quote \n  * Pricing overview and tools \n  * Google Cloud pricing \n  * Pricing calculator \n  * Google Cloud free tier \n  * Cost optimization framework \n  * Cost management tools \n  * Product-specific Pricing \n  * Compute Engine \n  * Cloud SQL \n  * Google Kubernetes Engine \n  * Cloud Storage \n  * BigQuery \n  * See full price list with 100+ products    * Learn & build \n  * Google Cloud Free Program \n  * Quickstarts \n  * Cloud computing basics \n  * Blog \n  * Learning Hub \n  * Training \n  * Certification \n  * Cloud Architecture Center \n  * Connect \n  * Innovators \n  * Developer Center \n  * Events and webinars \n  * Google Cloud Community \n  * Google Cloud Consulting \n  * Google Cloud Consulting \n  * Google Cloud Marketplace \n  * Google Cloud partners \n  * Become a partner  * Innovators \n  * Developer Center \n  * Events and webinars \n  * Google Cloud Community \n  * Google Cloud Consulting \n  * Google Cloud Consulting \n  * Google Cloud Marketplace \n  * Google Cloud partners \n  * Become a partner",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "cloud.google.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://cloud.google.com/architecture/identity/best-practices-for-planning",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "For most settings that you can configure in Cloud Identity and Google Workspace, you can choose the scope at which each setting should apply\u2014for example, you can specify the geographic location for your data by user, by group, or by organizational unit. When you plan to apply a new configuration, you can initially choose a small scope (for example, by user) and verify whether the configuration meets your expectations. When you've verified the configuration, you can then apply the same setting to a larger set of groups or organizational units. Unlike most settings, integrating a Cloud Identity or Google Workspace account with an external identity provider (IdP) has a global impact: * Enabling single sign-on is a global setting that applies to all users other than super admins. * Depending on your external IdP, setting up user provisioning can also have global impact. An accidental misconfiguration in the external IdP might lead to users inadvertently being modified, suspended, or even deleted. To mitigate these risks, have separate staging and production Cloud Identity or Google Workspace accounts: * Use the staging account to verify any risky configuration changes before applying the same change to your production account. * Create a few test users in the staging accounts that you and other administrators can use to verify configuration changes. But don't grant your users access to the staging account. If you have separate staging and production instances of your external IdP, take these steps: * Integrate your staging Cloud Identity or Google Workspace account with your staging IdP instance. * Integrate your production Cloud Identity or Google Workspace account with your production IdP instance. For example, suppose you plan to set up federation with Active Directory and have a separate Active Directory forest for testing purposes. In this case, you integrate your staging Cloud Identity or Google Workspace account with the staging forest and the production Cloud Identity or Google Workspace account with your main forest. Apply the same mapping approach for DNS domains, users, and groups to both forest/account pairs, as shown in the following diagram: ![Active](\"/static/architecture/identity/images/ad-mapping-dns-domains-users-groups.svg\") Your production and staging Active Directory forests and domains might use DNS domains that don't let you apply the same domain mapping approach for staging and production. In this case, consider registering more User Principal Name (UPN) suffix domains in your staging forest.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            "cloud.google.com"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "The fact that super admins are also organization administrators might be a\nsecurity concern if your existing Google Workspace administrators are a\ndifferent set of users from the users who will be in charge of managing your\nGoogle Cloud organization. In this case, you might decide to create a separate\nCloud Identity account that is dedicated to Google Cloud in order to limit the\naccess of Google Workspace super admins to Google Cloud resources. Separating\nGoogle Workspace and Google Cloud can have several unintended consequences. For example, you might try creating separate users in the Cloud Identity\naccount and then restricting access to the Google Cloud organization users to\nthe Cloud Identity account. This would ensure that your Google Cloud\ndeployment and Google Workspace are fully isolated. However, duplicating users\nnegatively affects both user experience and administrative overhead.\nAdditionally, you wouldn\\\\'t be able to receive any notification emails sent by\nGoogle Cloud because the domain used by Cloud Identity must be different from\nthe domain used for Google Workspace and is therefore unsuitable for routing\nemail. If you instead reference users from the Google Workspace account in your\nGoogle Cloud organization, you undermine the isolation between Google\nWorkspace and Google Cloud: ![\\\\\\\"Referencing](\\\\\\\"/static/architecture/identity/images/referencing-users-\nfrom-g-suite-account.svg\\\\\\\"/) Google Workspace super admins have the ability to use domain-wide delegation\nto impersonate any user in the same Google Workspace account. A rogue super\nadmin could use their elevated privileges to regain access to Google Cloud. A more effective approach than using separate accounts is to segregate\nresponsibilities between Google Workspace and Google Cloud administrators to\nreduce the number of super admins:   * Most administrative duties in Google Workspace don\\\\'t require super admin privileges. Use pre-built administrative roles or custom administrator roles in place of super admin privileges to grant Google Workspace administrators the permissions necessary to conduct their duties.   * Retain only a minimal number of super-admin users and discourage everyday usage.   * Take advantage of auditing to detect suspicious activity among administrative users. ### Secure your external IdP when using single sign-on Cloud Identity and Google Workspace let you set up single sign-on with your\nexternal IdP such as Active Directory, Azure Active Directory, or Okta (to\nname a few). If single sign-on is enabled, Cloud Identity and Google Workspace\ntrust the external IdP to authenticate users on Google\\\\'s behalf. Enabling single sign-on offers several advantages: Identity and Google Workspace let you set up single sign-on with your\nexternal IdP such as Active Directory, Azure Active Directory, or Okta (to\nname a few). If single sign-on is enabled, Cloud Identity and Google Workspace\ntrust the external IdP to authenticate users on Google\\\\'s behalf. Enabling single sign-on offers several advantages:",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Similarly, if you plan to set up federation with Azure Active Directory, it\\\\'s\nbest to take the following approach:   * Integrate the staging Cloud Identity or Google Workspace account with a staging Azure Active Directory tenant.\n  * Integrate the production Cloud Identity or Google Workspace account with your main Azure Active Directory tenant. Apply the same mapping approach for DNS domains, users, and groups to both\ntenant/account pairs: ![\\\\\\\"Azure](\\\\\\\"/static/architecture/identity/images/aad-mapping-dns-domains-\nusers-groups.svg\\\\\\\"/) Your production and staging Azure Active Directory tenants might use DNS\ndomains that don\\\\'t let you apply the same domain mapping approach for staging\nand production. In this case, consider adding an extra domain to your staging\ntenant. ### Use disjoint DNS domains among Cloud Identity and Google Workspace\naccounts When you first add a domain such as example.com to your Cloud Identity or\nGoogle Workspace account, you need to verify that you own the domain. After\nyou have added and verified a domain, you can add subdomains such as\nmarketing.example.com and finance.example.com without having to verify each\nsubdomain individually. However, if you add subdomains without verifying each one, conflicts can\nresult if you have another Cloud Identity or Google Workspace account that\nalready uses this subdomain. To avoid these conflicts, prefer using disjoint\ndomains for each account. For example, if you need two Cloud Identity or\nGoogle Workspace accounts, try to avoid using two domains where one domain is\na subdomain of the other. Instead, use two domains that are not subdomains of\nanother. This practice applies to the primary domain and to secondary domains. ### Don\\\\'t separate Google Workspace and Google Cloud If you already use Google Workspace, some users in your Google Workspace\naccount might have been granted super admin privileges so that they can carry\nout administrative tasks. Users with super admin privileges are implicitly granted permission to modify\nthe Identity and Access Management (IAM) policy of the organization node. This\npermission enables super admins to assign themselves the organization\nadministrators role or any other role in the Google Cloud organization. Having\nsuper admin access to a Cloud Identity or Google Workspace account also\nenables a user to delete the account, its associated Google Cloud\norganization, and all its resources. You therefore have to assume that super\nadmins have full access to all resources within an organization. any other role in the Google Cloud organization. Having\nsuper admin access to a Cloud Identity or Google Workspace account also\nenables a user to delete the account, its associated Google Cloud\norganization, and all its resources. You therefore have to assume that super\nadmins have full access to all resources within an organization.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "example.com",
+                "marketing.example.com",
+                "finance.example.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "The importance of DNS and the impact on the overall security of your Google deployment extends beyond the sign-up process: * Google Workspace relies on DNS MX records for routing emails. By modifying these MX records, an attacker might be able to route emails to a different server and gain access to sensitive information. * If an attacker is able to add records to the DNS zone, they might then be able to reset the password of a super admin user and gain access to the account. To prevent DNS from becoming a weak link in your security posture, ensure that your DNS server is configured securely: * Limit the number of users that have administrative access to the DNS server that manages the primary domain used for Cloud Identity or Google Workspace. * Don\\\\'t grant any user administrative access to your DNS server to whom you wouldn\\\\'t also give super admin privileges in Cloud Identity or Google Workspace. * If you plan to deploy a workload on Google Cloud that has security requirements that aren\\\\'t met by your existing DNS infrastructure, consider registering for that workload a new DNS domain that uses separate DNS servers or a managed DNS service. ### Export audit logs to BigQuery Cloud Identity and Google Workspace maintain multiple audit logs to keep track of configuration changes and other activities that might be relevant to the security of your Cloud Identity or Google Workspace account. The following table summarizes these audit logs. Log | Activities captured ---|--- Admin | Actions performed in your Google Admin Console Login | Successful, unsuccessful, and suspicious sign-in attempts to your domain Token | Instances of authorizing or revoking access to third-party mobile or web applications Groups | Changes to groups and group memberships You can access these audit logs either through the Admin Console or through the Reports API. For most audit logs, data is retained for 6 months. If you are operating in a regulated industry, retaining audit data for 6 months might not be sufficient. To retain data for a longer period of time, configure audit logs to be exported to BigQuery. the Admin Console or through the Reports API. For most audit logs, data is retained for 6 months. If you are operating in a regulated industry, retaining audit data for 6 months might not be sufficient. To retain data for a longer period of time, configure audit logs to be exported to BigQuery.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "The number of organizations that you create and their purposes can profoundly impact your security posture, the autonomy of your teams and departments, and the consistency and efficiency of your administration. The following sections describe best practices for deciding how many organizations to use. ### Use as few organizations as possible, but as many as necessary The resource hierarchy of an organization lets you reduce the effort of managing IAM policies and organizational policies by taking advantage of inheritance. By configuring policies at the folder or organization level, you ensure that policies are applied consistently across a sub-hierarchy of resources, and you avoid repetitive configuration work. To minimize your administrative overhead, it's best to use as few organizations as possible. In contrast, you can gain additional flexibility and administrative autonomy by using multiple organizations. The following sections describe when you might require such additional flexibility or autonomy. In any case, when you are deciding how many organizations to use, consider all requirements that suggest using multiple organizations. Then use the smallest number of organizations that satisfies your requirements. ### Use organizations to delineate administrative authority Within a resource hierarchy, you can grant permissions at the resource, project, or folder level. The ultimate level at which you can grant a user permissions is the organization. A user who has been assigned the Organization Administrator role at the organization level has full control over the organization, its resources, and its IAM policies. An Organization Administrator can take control of any resource within the organization and is free to delegate administrative access to any other user. However, the capabilities of an Organization Administrator are confined to the organization, making the organization the ultimate scope of administrative authority:   * An Organization Administrator cannot access any resources in other organizations unless explicitly granted permission.   * No user outside the organization can take control away from an Organization Administrator of that organization. The right number of organizations to use depends on the number of independent groups of administrative users in your company:   * If your company is organized by function, you might have a single department that's in charge of overseeing all Google Cloud deployments.   * If your company is organized by division or owns a number of autonomously-run subsidiaries, then there might not be a single department that's in charge. * If your company is organized by function, you might have a single department that's in charge of overseeing all Google Cloud deployments.   * If your company is organized by division or owns a number of autonomously-run subsidiaries, then there might not be a single department that's in charge.",
+        "output_data": {
+            "subsidiaries": [
+                "autonomously-run subsidiaries"
+            ],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "If a single department is in charge of overseeing Google Cloud deployments, it's best to use a single Google Cloud organization node. Within the organization, use folders to structure resources and grant different levels of access to other teams and departments. If you are dealing with multiple independent departments, trying to centralize administration by using a single organization might cause friction: * If you designate a single department to manage the organization, you might face resistance from other departments. * If you let multiple teams or departments co-own a single organization, it might be difficult to maintain a consistent resource hierarchy and to ensure that IAM policies and organizational policies are used consistently across your resources. To prevent this kind of friction, use multiple organizations and create separate folder structures in each organization. By using separate organizations, you establish boundaries between different groups of administrative users, thus delineating their administrative authority.",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Use a separate staging organization To help ensure consistency and avoid repetitive configuration work, organize your projects into a hierarchy of folders and apply IAM policies and organizational policies at the folder or organization level. There is a downside of having policies that apply to many projects and resources. Any change to the policy itself or the resource hierarchy the policy applies to might have far-reaching and unintended consequences. To mitigate this risk, it's best to test policy changes before you apply them in your main organization. We recommend that you create a separate staging organization. This organization helps you test resource hierarchy changes, IAM policies, organizational policies, or other configuration that have potential organization-wide impact such as access levels and policies. To ensure that the results of tests or experiments conducted in the staging organization also apply to the production organization, configure the staging organization to use the same folder structure as your main organization, but with only a small number of projects. At any point, the IAM and organizational policies in the staging organization should either match the policies of your production organization or should reflect the next version of policies that you intend to apply to your production organization.",
+        "output_data": "{\"subsidiaries\":[], \"associated_domains\":[]}",
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "As the following diagram shows, you use your staging Cloud Identity or Google Workspace account as a basis for the staging organization. You use the staging account (or the external IdP that your staging account is integrated with) to create dedicated test users and a group structure that mirrors the groups you use in your production Cloud Identity or Google Workspace account. You can then use these dedicated test users and groups to test IAM policies without impacting existing users. ![\\\\\\\"Using](\\\\\\\"/static/architecture/identity/images/your-account-as-basis-for-staging.svg\\\\\\\"/) ### Avoid using a separate testing organization For each production workload that you plan to deploy on Google Cloud, you probably need one or more testing environments, which your development and DevOps teams can use to validate new releases. From a security perspective, to prevent untested releases from accidentally impacting production workloads, you want to cleanly separate your test environments from your production environments. Similarly, the two types of environments have different requirements for IAM policies. For example, in order for you to grant developers and testers the flexibility they need, the security requirements for your testing environments might be substantially looser than those of your production environments. As the following diagram shows, from a configuration perspective you want to keep your test environments as similar to your production environments as possible. Any divergence increases the risk that a deployment that worked properly in a test environment fails when deployed to a production environment. ![\\\\\\\"Keeping](\\\\\\\"/static/architecture/identity/images/stage-production-similarity.svg\\\\\\\"/) To strike a balance between keeping environments isolated and consistent, use folders within the same organization to manage testing and production environments: * Apply any IAM policies or organizational policies that are common across environments at the organizational level (or by using a common parent folder). * Use the individual folders to manage IAM policies and organization policies that differ between different types of environments. Don\\\\'t use your staging organization for managing testing environments. Testing environments are critical to the productivity of development and DevOps teams. Managing such environments in your staging environment would restrict your ability to use the staging organization to experiment with and test policy changes; any such change might disrupt the work of these teams. In short, if you use a staging organization to manage testing environments, you undermine the purpose of your staging organization. ### Use a separate organization for experimenting environment would restrict your ability to use the staging organization to experiment with and test policy changes; any such change might disrupt the work of these teams. In short, if you use a staging organization to manage testing environments, you undermine the purpose of your staging organization. ### Use a separate organization for experimenting",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "To get the most out of Google Cloud, let your development, DevOps, and\noperations teams familiarize themselves with the platform and expand their\nexperience by running tutorials. Encourage them to experiment with new\nfeatures and services. Use a separate organization as the sandbox environment to support these types\nof experimental activities. By using a separate organization, you can keep\nexperiments unencumbered by any policies, configuration, or automation that\nyou use in your production organization. Avoid using your staging organization for experimenting. Your staging\nenvironment should use IAM and organization policies that are similar to your\nproduction organization. Therefore, the staging environment is likely to be\nsubject to the same limitations as your production environment. At the same\ntime, relaxing policies in order to allow experiments would undermine the\npurpose of your staging organization. To prevent your experimental organization from becoming disorganized, from\ngenerating excessive cost, or from becoming a security risk, issue guidelines\nthat define how teams are allowed to use the organization, and who bears\nresponsibility for maintaining the organization. Additionally, consider\nsetting up automation to automatically delete resources, or even entire\nprojects, after a certain number of days. As the following diagram shows, when you create an organization for\nexperimenting, you first create a dedicated Cloud Identity account. You then\nuse the existing users from your main Cloud Identity or Google Workspace\naccount to grant users access to the experimental organization. ![\\\\\\\"Experiment](\\\\\\\"/static/architecture/identity/images/experiment-\norganization.svg\\\\\\\"/) To manage the additional Cloud Identity account, you need at least one super\nadmin user account in the Cloud Identity account. For information about how to\nsecure these super-admin user accounts, see Super administrator account best\npractices. ### Use domain-restricted sharing to enforce trust relationships IAM policies let you add any valid Google identity as a member. This means\nthat when you edit the IAM policy of a resource, project, folder, or\norganization, you can add members from different sources, including the\nfollowing:   * Users from the Cloud Identity or Google Workspace account that the organization is associated with, as well as service accounts from the same organization\n  * Users from other Cloud Identity or Google Workspace accounts\n  * Service accounts from other organizations\n  * Consumer user accounts, including gmail.com users and consumer accounts that use a corporate email address that the organization is associated with, as well as service accounts from the same organization\n  * Users from other Cloud Identity or Google Workspace accounts\n  * Service accounts from other organizations\n  * Consumer user accounts, including gmail.com users and consumer accounts that use a corporate email address",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": [
+                "cloud.google.com",
+                "google.com",
+                "gmail.com"
+            ]
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Being able to reference users from different sources is useful for scenarios\nand projects where you need to collaborate with affiliates or other companies.\nIn most other cases, it\\\\'s best to constrain IAM policies to only allow\nmembers from trusted sources. Use domain-restricted sharing to define a set of trusted Cloud Identity or\nGoogle Workspace accounts from which you want to allow members to be added to\nIAM policies. Define this organizational policy either at the organization\nlevel (so that it applies to all projects) or at a folder near the top of the\nresource hierarchy (to allow certain projects to be exempted). If you use separate Cloud Identity or Google Workspace accounts and\norganizations to segregate staging, production, and experimenting\nenvironments, use domain-restricted sharing policies to enforce the\nsegregation as listed in the following table: Organization | Trusted Cloud Identity or Google Workspace account  \n---|---  \nStaging | Staging  \nProduction | Production  \nExperiments | Production  \n  \n### Use neutral domain names for organizations Organizations are identified by a DNS domain name such as example.com. The\ndomain name is derived from the primary domain name of the associated Cloud\nIdentity or Google Workspace account. If there is a canonical DNS domain name that is used throughout your company,\nuse that domain as primary domain in your production Cloud Identity or Google\nWorkspace account. By using the canonical DNS name, you ensure that employees\ncan easily recognize the name of the organization node. If your company has several subsidiaries or owns a variety of different\nbrands, there might not be a canonical domain name. Rather than arbitrarily\npicking one of the existing domains, consider registering a new DNS domain\nthat is neutral and dedicated for use by Google Cloud. By using a neutral DNS\nname, you avoid expressing a preference for a specific brand, subsidiary, or\ndepartment within your company, which could negatively affect cloud adoption.\nAdd your other, brand-specific domains as secondary domains so that they can\nbe used in user IDs and for single sign-on. ### Use billing accounts across Google Cloud organizations Billing accounts define who pays for a given set of Google Cloud resources.\nAlthough billing accounts can exist outside of a Google Cloud organization,\nthey are most commonly associated with an organization. When billing accounts are associated with an organization, they are considered\na sub-resource of the organization and are subject to IAM policies defined\nwithin the organization. Most importantly, this means that you can use the\nBilling IAM roles to define which users or groups are allowed to administer or\nuse an account. A user who has been granted the Billing Account User role can link a project\nto a billing account, causing the resources to be billed to this account.\nLinking a project to a billing account works within the same organization, but\nalso across organizations. If you use multiple organizations, you can take advantage of the fact that\nbilling accounts can be used across organizations. This lets you decide how\nmany billing accounts you need independent of how many organizations you need. The right number of billing accounts depends exclusively on your commercial or\ncontractual requirements such as currency, payment profile, and the number of\nseparate invoices you need. As you did with accounts and organizations, in\norder to minimize complexity, you want to use the smallest number of billing\naccounts that satisfies your requirements. To break down costs accrued across multiple organizations, configure your\nbilling account to export billing data to BigQuery. Each record exported to\nBigQuery not only contains the project name and ID, but also the ID of the\norganization the project is associated with (in the project.ancestry_numbers\nfield). ## What\\\\'s next   * Create a new Cloud Identity account\n  * Learn how Google Cloud lets you authenticate corporate users in a hybrid environment and common patterns.\n  * Review the best practices for federating Google Cloud with an external identity provider.\n  * Find out how to federate Google Cloud with Active Directory or Azure Active Directory.\n  * Review the best practices for managing identity and access. Was this helpful? Send feedback Except as otherwise noted, the content of this page is licensed under the\nCreative Commons Attribution 4.0 License, and code samples are licensed under\nthe Apache 2.0 License. For details, see the Google Developers Site Policies.\nJava is a registered trademark of Oracle and/or its affiliates. Last updated 2024-06-26 UTC. [{ \\\\\"type\\\\\": \\\\\"thumb-down\\\\\", \\\\\"id\\\\\": \\\\\"hardToUnderstand\\\\\", \\\\\"label\\\\\":\\\\\"Hard to\nunderstand\\\\\" },{ \\\\\"type\\\\\": \\\\\"thumb-down\\\\\", \\\\\"id\\\\\":\n\\\\\"incorrectInformationOrSampleCode\\\\\", \\\\\"label\\\\\":\\\\\"Incorrect information or\nsample code\\\\\" },{ \\\\\"type\\\\\": \\\\\"thumb-down\\\\\", \\\\\"id\\\\\":\n\\\\\"missingTheInformationSamplesINeed\\\\\", \\\\\"label\\\\\":\\\\\"Missing the\ninformation/samples I need\\\\\" },{ \\\\\"type\\\\\": \\\\\"thumb-down\\\\\", \\\\\"id\\\\\":\n\\\\\"otherDown\\\\\", \\\\\"label\\\\\":\\\\\"Other\\\\\" }]  [{ \\\\\"type\\\\\": \\\\\"thumb-up\\\\\", \\\\\"id\\\\\":\n\\\\\"easyToUnderstand\\\\\", \\\\\"label\\\\\":\\\\\"Easy to understand\\\\\" },{ \\\\\"type\\\\\": \\\\\"thumb-\nup\\\\\", \\\\\"id\\\\\": \\\\\"solvedMyProblem\\\\\", \\\\\"label\\\\\":\\\\\"Solved my problem\\\\\" },{\n\\\\\"type\\\\\": \\\\\"thumb-up\\\\\", \\\\\"id\\\\\": \\\\\"otherUp\\\\\", \\\\\"label\\\\\":\\\\\"Other\\\\\" }]  Need to\ntell us more?  { \\\\\"lastModified\\\\\": \\\\\"Last updated 2024-06-26 UTC.\\\\\",\n\\\\\"confidential\\\\\": False }   * ### Why Google     * Choosing Google Cloud \n    * Trust and security \n    * Open cloud \n    * Multicloud \n    * Global infrastructure \n    * Customers and case studies \n    * Analyst reports \n    * Whitepapers \n    * Blog \n  * ### Products and pricing     * Google Cloud pricing \n    * Google Workspace pricing \n    * See all products \n  * ### Solutions     * Infrastructure modernization \n    * Databases \n    * Application modernization \n    * Smart analytics \n    * Artificial Intelligence \n    * Security \n    * Productivity & work transformation \n    * Industry solutions \n    * DevOps solutions \n    * Small business solutions \n    * See all solutions \n  * ### Resources     * Google Cloud Affiliate Program \n    * Google Cloud documentation \n    * Google Cloud quickstarts \n    * Google Cloud Marketplace \n    * Learn about cloud computing \n    * Support \n    * Code samples \n    * Cloud Architecture Center \n    * Training \n    * Certifications \n    * Google for Developers \n    * Google Cloud for Startups \n    * System status \n    * Release Notes \n  * ### Engage     * Contact sales \n    * Find a Partner \n    * Become a Partner \n    * Events \n    * Podcasts \n    * Developer Center \n    * Press Corner \n    * Google Cloud on YouTube \n    * Google Cloud Tech on YouTube \n    * Follow on X \n    * Join User Research \n    * We\\\\'re hiring. Join Google Cloud! \n    * Google Cloud Community    * About Google \n  * Privacy \n  * Site terms \n  * Google Cloud terms \n  * Manage cookies \n  * Our third decade of climate action: join us \n  * Sign up for the Google Cloud newsletter  Subscribe    * English\n  * Deutsch\n  * Espa\u00f1ol \u2013 Am\u00e9rica Latina\n  * Fran\u00e7ais\n  * Indonesia\n  * Italiano\n  * Portugu\u00eas \u2013 Brasil\n  * \u4e2d\u6587 \u2013 \u7b80\u4f53\n  * \u65e5\u672c\u8a9e\n  * \ud55c\uad6d\uc5b4",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    }
+]
+[
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "X Development",
+            "Calico",
+            "Nest",
+            "Verily",
+            "Fiber",
+            "CapitalG",
+            "GV"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Calico",
+            "CapitalG",
+            "Google",
+            "Google Fiber",
+            "GV",
+            "Intrinsic",
+            "Isomorphic Labs",
+            "Verily",
+            "Waymo",
+            "Wing"
+        ],
+        "associated_domains": [
+            "abc.xyz"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Google Inc.",
+                "Waymo"
+            ],
+            "associated_domains": [
+                "San Francisco",
+                "Los Angeles"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Loon LLC",
+            "Intrinsic",
+            "Isomorphic Labs"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Calico",
+                "CapitalG",
+                "Google",
+                "Google Fiber",
+                "GV",
+                "Intrinsic",
+                "Isomorphic Labs",
+                "Mineral",
+                "Verily",
+                "Waymo",
+                "Wing",
+                "X Development"
+            ],
+            "associated_domains": [
+                "Human health (by overcoming aging)",
+                "Private equity for growth-stage technology companies",
+                "Internet services, largest subsidiary and prior corporate entity name",
+                "Internet access: via fiber",
+                "Venture capital for technology companies",
+                "Robotics software",
+                "Drug discovery",
+                "Sustainable agriculture",
+                "Human health",
+                "Autonomous driving",
+                "Drone-based delivery of freight",
+                "Research and development for \"moonshot\" technologies"
+            ]
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Waymo"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "index": 0,
+        "error": true,
+        "tags": [
+            "error"
+        ],
+        "content": [
+            "{\n    \"model_name\": \"Subsidiaries and Associated Domains Extractor\",\n    \"input_data\": \"Alphabet has chosen the domain abc.xyz with the .xyz top-level domain (TLD),\\nwhich was introduced in 2014. It does not own the domain alphabet.com, which\\nis owned by a fleet management division of BMW. Following the announcement,\\nBMW said it would be \\\"necessary to examine the legal trademark implications\\\"\\nof the proposals. Additionally, it does not own the domain abc.com, which is\\nthe domain of the Disney-owned American Broadcasting Company.[45][46] Google\\'s mission statement, from the outset, was \\\"to organize the world\\'s\\ninformation and make it universally accessible and useful\\\",[47] and its\\nunofficial slogan is \\\"Don\\'t be evil\\\".[48] In October 2015, a related motto\\nwas adopted in the Alphabet corporate code of conduct by the phrase: \\\"Do the\\nright thing\\\".[49] The original motto was retained in the code of conduct of\\nGoogle, now a subsidiary of Alphabet.[50]\",\n    \"output_data\": {\n      \"subsidiaries\": [\"Google\"],\n      \"associated_domains\": [\"abc.xyz\", \"alphabet.com\", \"abc.com\"]\n    }\n  }"
+        ]
+    },
+    {
+        "subsidiaries": [
+            "Access",
+            "Google Fiber",
+            "Calico",
+            "CapitalG",
+            "Google",
+            "DeepMind",
+            "AlphaFold",
+            "AlphaGo",
+            "vs. Fan Hui",
+            "vs. Ke Jie",
+            "vs. Lee Sedol",
+            "film",
+            "Future of Go Summit",
+            "AlphaGo Zero",
+            "AlphaStar",
+            "AlphaZero",
+            "Master",
+            "MuZero",
+            "WaveNet",
+            "DoubleClick",
+            "Firebase",
+            "Fitbit",
+            "Tenor",
+            "Waze",
+            "YouTube",
+            "GV",
+            "Isomorphic Labs",
+            "Verily",
+            "Baseline Study",
+            "X Development",
+            "Waymo",
+            "Wing"
+        ],
+        "associated_domains": [
+            "Bloomberg",
+            "Google",
+            "Reuters",
+            "SEC filings",
+            "Yahoo!"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google",
+            "Waymo",
+            "GV",
+            "CapitalG",
+            "Verily",
+            "Calico",
+            "X",
+            "DeepMind",
+            "Google Fiber",
+            "Sidewalk Labs",
+            "Wing",
+            "Loon",
+            "Chronicle",
+            "Intrinsic",
+            "Mineral"
+        ],
+        "associated_domains": [
+            "abc.xyz",
+            "google.com",
+            "waymo.com",
+            "gv.com",
+            "capitalg.com",
+            "verily.com",
+            "calicolabs.com",
+            "x.company",
+            "deepmind.com",
+            "fiber.google.com",
+            "sidewalklabs.com",
+            "wing.com",
+            "loon.com",
+            "chronicle.security",
+            "intrinsic.ai",
+            "mineral.ai"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Ads",
+            "AI",
+            "Brain",
+            "DeepMind",
+            "Android",
+            "China",
+            "Chrome",
+            "Cloud",
+            "Glass",
+            "Google.org",
+            "Health",
+            "Maps",
+            "Pixel",
+            "Search",
+            "Sidewalk Labs",
+            "Sustainability",
+            "YouTube"
+        ],
+        "associated_domains": [
+            "booting process",
+            "recovery mode",
+            "software development",
+            "version history",
+            "Goojje",
+            "Crisis Response",
+            "Public Alerts",
+            "RechargeIT",
+            "Timeline",
+            "History",
+            "Me at the zoo",
+            "Social impact",
+            "YouTuber"
+        ],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "In 2023, the company was criticized for conducting mass lay-offs without informing employees before they arrived to work, including many long-tenured and recently promoted employees. Around 12,000 jobs were cut, which reduced the company's workforce by 6%. According to various posts on social media, several Google employees discovered they had been terminated after they were unable to access their accounts and confirming it through news articles discussing the mass layoffs. ## See also [edit] * Google * ![\\\"\\\"](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/16px-SF_From_Marin_Highlands3.jpg\\\") San Francisco Bay Area portal * ![\\\"icon\\\"](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/16px-Crystal_Clear_app_linneighborhood.svg.png\\\") Internet portal ## References [edit] on social media, several Google employees discovered they had been terminated after they were unable to access their accounts and confirming it through news articles discussing the mass layoffs. ## See also [edit] * Google * ![\\\"\\\"](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/16px-SF_From_Marin_Highlands3.jpg\\\") San Francisco Bay Area portal * ![\\\"icon\\\"](\\\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/16px-Crystal_Clear_app_linneighborhood.svg.png\\\") Internet portal ## References [edit]",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        }
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "111 Eighth Avenue",
+                "Androidland",
+                "Barges",
+                "Binoculars Building",
+                "Central Saint Giles",
+                "Chelsea Market",
+                "Chrome Zone",
+                "Data centers",
+                "Googleplex",
+                "Mayfield Mall",
+                "Pier 57",
+                "Sidewalk Toronto",
+                "St. John's Terminal",
+                "YouTube Space",
+                "YouTube Theater"
+            ],
+            "associated_domains": [
+                "Croscore",
+                "Noto",
+                "Product Sans",
+                "Roboto",
+                "Doodle",
+                "Doodle Champion Island Games",
+                "Magic Cat Academy",
+                "Material Design",
+                "Android",
+                "Developer Challenge",
+                "Developer Day",
+                "Developer Lab",
+                "Code-in",
+                "Code Jam",
+                "Developer Day",
+                "Developers Live",
+                "Doodle4Google",
+                "G-Day",
+                "I/O",
+                "Jigsaw",
+                "Living Stories",
+                "Lunar XPRIZE",
+                "Mapathon",
+                "Science Fair",
+                "Summer of Code",
+                "Talks at Google"
+            ]
+        }
+    },
+    {
+        "subsidiaries": [
+            "Currents (news app)",
+            "Green Throttle Games",
+            "Owlchemy Labs",
+            "Oyster",
+            "PaperofRecord.com",
+            "Podcasts",
+            "Quick, Draw!",
+            "Santa Tracker",
+            "Songza",
+            "Stadia",
+            "Typhoon Studios",
+            "TV",
+            "Vevo",
+            "Video",
+            "Books",
+            "Games",
+            "Music",
+            "Newsstand",
+            "Pass",
+            "Services",
+            "BandPage",
+            "BrandConnect",
+            "Content ID",
+            "Instant",
+            "Kids",
+            "Music",
+            "Official channel",
+            "Preferred",
+            "Premium",
+            "YouTube Rewind",
+            "RightsFlow",
+            "Shorts",
+            "Studio",
+            "TV",
+            "Allo",
+            "Bump",
+            "Buzz",
+            "Chat",
+            "Contacts",
+            "Currents (social app)",
+            "Dodgeball",
+            "Duo",
+            "Fi Wireless",
+            "Friend Connect",
+            "Gizmo5",
+            "Google+",
+            "Gmail",
+            "Groups",
+            "Hangouts",
+            "Helpouts",
+            "IME",
+            "Jaiku",
+            "Marratech",
+            "Meebo",
+            "Meet",
+            "Messages",
+            "Moderator",
+            "Neotonic Software",
+            "Orkut",
+            "Postini",
+            "Quest Visual",
+            "Schemer",
+            "Spaces",
+            "Sparrow",
+            "Talk",
+            "Translate",
+            "Voice",
+            "Voice Local Search",
+            "Wave"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Aardvark",
+            "Alerts",
+            "Answers",
+            "Base",
+            "BeatThatQuote.com",
+            "Blog Search",
+            "Books",
+            "Ngram Viewer",
+            "Code Search",
+            "Data Commons",
+            "Dataset Search",
+            "Dictionary",
+            "Directory",
+            "Fast Flip",
+            "Flu Trends",
+            "Finance",
+            "Goggles",
+            "Google.by",
+            "Images",
+            "Image Labeler",
+            "Image Swirl",
+            "Kaltix",
+            "Knowledge Graph",
+            "Freebase",
+            "Metaweb",
+            "Like.com",
+            "News",
+            "Archive",
+            "Weather",
+            "Patents",
+            "People Cards",
+            "Personalized Search",
+            "Public Data Explorer",
+            "Questions and Answers",
+            "SafeSearch",
+            "Scholar",
+            "Searchwiki",
+            "Shopping",
+            "Catalogs",
+            "Express",
+            "Squared",
+            "Tenor",
+            "Travel",
+            "Flights",
+            "Trends",
+            "Insights for Search",
+            "Voice Search",
+            "WDYL",
+            "Earth",
+            "Endoxon",
+            "ImageAmerica",
+            "Maps",
+            "Latitude",
+            "Map Maker",
+            "Navigation",
+            "Pin",
+            "Street View",
+            "Coverage",
+            "Trusted",
+            "Waze",
+            "Where Is My Train",
+            "Ad Manager",
+            "AdMob",
+            "Ads",
+            "Adscape",
+            "AdSense",
+            "Attribution",
+            "BebaPay",
+            "Checkout",
+            "Contributor",
+            "DoubleClick",
+            "Affiliate Network",
+            "Invite Media",
+            "Marketing Platform",
+            "Analytics",
+            "Looker Studio",
+            "Urchin",
+            "Pay (mobile app)",
+            "Wallet",
+            "Pay (payment method)",
+            "Send",
+            "Tez",
+            "PostRank",
+            "Primer",
+            "Softcard",
+            "Wildfire Interactive",
+            "Widevine"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Android",
+                "Automotive",
+                "Glass OS",
+                "Go",
+                "gLinux",
+                "Goobuntu",
+                "Things",
+                "TV",
+                "Wear OS",
+                "ChromeOS",
+                "ChromiumOS",
+                "Neverware",
+                "Fuchsia",
+                "TV",
+                "ALTS",
+                "AMP",
+                "Angular",
+                "JS",
+                "ARCore",
+                "APIs",
+                "Blockly",
+                "Chart API",
+                "Charts",
+                "Dialogflow",
+                "Exposure Notification",
+                "Fast Pair",
+                "Federated Learning of Cohorts",
+                "File System",
+                "FlatBuffers",
+                "Flutter",
+                "Gears",
+                "gRPC",
+                "Gson",
+                "Guava",
+                "Guice",
+                "Guetzli",
+                "JAX",
+                "gVisor",
+                "MapReduce",
+                "Matter",
+                "Mobile Services",
+                "Neural Machine Translation",
+                "OpenSocial",
+                "Pack",
+                "Polymer",
+                "Protocol Buffers",
+                "Reqwireless",
+                "Shell",
+                "Skia Graphics Engine",
+                "Tango",
+                "TensorFlow",
+                "Test",
+                "WaveNet",
+                "Weave",
+                "Web Accelerator",
+                "WebRTC",
+                "App Engine",
+                "AppJet",
+                "Apps Script",
+                "Cloud Platform",
+                "Anvato",
+                "Firebase",
+                "Cloud Messaging",
+                "Crashlytics",
+                "Global IP Solutions",
+                "Internet Low Bitrate Codec",
+                "Internet Speech Audio Codec",
+                "Gridcentric, Inc.",
+                "ITA Software",
+                "Kubernetes",
+                "LevelDB",
+                "Neatx",
+                "Project IDX",
+                "SageTV",
+                "Apigee",
+                "Bigtable",
+                "Bitium",
+                "Chronicle",
+                "VirusTotal",
+                "Compute Engine",
+                "Connect",
+                "Dataflow",
+                "Datastore",
+                "Kaggle",
+                "Looker",
+                "Mandiant",
+                "Messaging",
+                "Orbitera",
+                "Shell",
+                "Stackdriver",
+                "Storage"
+            ],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Bookmarks",
+                "Browser Sync",
+                "Calendar",
+                "Cloud Search",
+                "Desktop",
+                "Drive",
+                "Etherpad",
+                "fflick",
+                "Files",
+                "iGoogle",
+                "Jamboard",
+                "Notebook",
+                "One",
+                "Photos",
+                "Quickoffice",
+                "Quick Search Box",
+                "Surveys",
+                "Sync",
+                "Tasks",
+                "Toolbar",
+                "Docs",
+                "Drawings",
+                "Forms",
+                "Fusion Tables",
+                "Keep",
+                "Sheets",
+                "Slides",
+                "Sites",
+                "Vids",
+                "Apture",
+                "Blogger",
+                "Pyra Labs",
+                "Domains",
+                "FeedBurner",
+                "One Pass",
+                "Page Creator",
+                "Sites",
+                "Web Designer",
+                "Classroom",
+                "Grasshopper",
+                "Socratic",
+                "Photomath",
+                "Read Along",
+                "Workspace",
+                "Marketplace",
+                "Account",
+                "Dashboard",
+                "Takeout",
+                "Android Auto",
+                "Android Beam",
+                "Arts & Culture",
+                "Assistant",
+                "Authenticator",
+                "Body",
+                "BufferBox",
+                "Building Maker",
+                "BumpTop",
+                "Cast",
+                "Cloud Print",
+                "Crowdsource",
+                "Digital Wellbeing",
+                "Expeditions",
+                "Family Link",
+                "Find My Device",
+                "Fit",
+                "Google Fonts",
+                "Gboard",
+                "Gemini",
+                "Gesture Search",
+                "Impermium",
+                "Knol",
+                "Lively",
+                "Live Transcribe",
+                "MyTracks",
+                "Nearby Share",
+                "Now",
+                "Offers",
+                "Opinion Rewards",
+                "Person Finder",
+                "Poly",
+                "Question Hub",
+                "Quick Share",
+                "Reader",
+                "Safe Browsing",
+                "Sidewiki",
+                "SlickLogin",
+                "Sound Amplifier",
+                "Speech Services",
+                "Station",
+                "Store",
+                "TalkBack",
+                "Tilt Brush",
+                "URL Shortener",
+                "Voice Access",
+                "Wavii",
+                "Web Light",
+                "WiFi"
+            ],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [
+            ".app",
+            ".dev",
+            "g.co",
+            ".google"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Chromebit",
+            "Chromebox",
+            "Clips",
+            "Chromecast",
+            "Nexus Player",
+            "Nexus Q",
+            "Dropcam",
+            "Liquid Galaxy",
+            "Nest",
+            "Smart Speakers",
+            "Thermostat",
+            "Wifi",
+            "OnHub",
+            "Pixel Visual Core",
+            "Search Appliance",
+            "Sycamore processor",
+            "Tensor",
+            "Tensor Processing Unit",
+            "Titan Security Key"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Extract subsidiaries and associated domains of the company.",
+        "output_data": {
+            "subsidiaries": [
+                "Apps",
+                "Chromium",
+                "Dinosaur Game",
+                "GreenBorder",
+                "Remote Desktop",
+                "Web Store",
+                "V8",
+                "Camera",
+                "Lens",
+                "Snapseed",
+                "Nik Software",
+                "Panoramio",
+                "Photos",
+                "Picasa",
+                "Web Albums",
+                "Picnik",
+                "Android Dev Phone",
+                "Android One",
+                "Nexus",
+                "Nexus One",
+                "S",
+                "Galaxy Nexus",
+                "4",
+                "5",
+                "6",
+                "5X",
+                "6P",
+                "Pixel",
+                "Pixel 2",
+                "Pixel 3",
+                "Pixel 3a",
+                "Pixel 4",
+                "Pixel 4a",
+                "Pixel 5",
+                "Pixel 5a",
+                "Pixel 6",
+                "Pixel 6a",
+                "Pixel 7",
+                "Pixel 7a",
+                "Pixel Fold",
+                "Pixel 8",
+                "Pixel 8a",
+                "Pixel 9",
+                "Pixel 9 Pro Fold",
+                "Play Edition",
+                "Project Ara",
+                "Chromebook",
+                "Nexus 7 (2012)",
+                "Nexus 7 (2013)",
+                "Nexus 10",
+                "Nexus 9",
+                "Pixel Chromebook Pixel",
+                "Pixelbook",
+                "Pixelbook Go",
+                "Pixel C",
+                "Pixel Slate",
+                "Pixel Tablet",
+                "Fitbit",
+                "Pixel Buds",
+                "Pixel Watch",
+                "Pixel Watch 2",
+                "Pixel Watch 3",
+                "Project Iris (unreleased)",
+                "Cardboard",
+                "Contact Lens",
+                "Daydream",
+                "Glass"
+            ],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "Companies of the Nasdaq-100 index  \n---  \n  \n  * Adobe\n  * ADP\n  * AMD\n  * Airbnb\n  * Alphabet\n  * Amazon\n  * AEP\n  * Amgen\n  * Analog Devices\n  * Ansys\n  * Apple\n  * Applied Materials\n  * ARM\n  * ASML\n  * AstraZeneca\n  * Atlassian\n  * Autodesk\n  * Baker Hughes\n  * Biogen\n  * Booking Holdings\n  * Broadcom\n  * Cadence\n  * CDW\n  * Charter Communications\n  * Cintas\n  * Cisco\n  * Coca-Cola Europacific Partners\n  * Cognizant\n  * Comcast\n  * Constellation Energy\n  * Copart\n  * CoStar\n  * Costco\n  * CrowdStrike\n  * CSX\n  * Datadog\n  * Dexcom\n  * Diamondback Energy\n  * Dollar Tree\n  * DoorDash\n  * Electronic Arts\n  * Exelon\n  * Fastenal\n  * Fortinet\n  * GE HealthCare\n  * Gilead\n  * GlobalFoundries\n  * Honeywell\n  * Idexx Laboratories\n  * Illumina\n  * Intel\n  * Intuit\n  * Intuitive Surgical\n  * Keurig Dr Pepper\n  * KLA\n  * Kraft Heinz\n  * Lam Research\n  * Linde\n  * Lululemon\n  * Marriott International\n  * Marvell\n  * Mercado Libre\n  * Meta\n  * Microchip\n  * Micron\n  * Microsoft\n  * Moderna\n  * Mondelez International\n  * MongoDB\n  * Monster Beverage\n  * Netflix\n  * Nvidia\n  * NXP\n  * O\\\\'Reilly Auto Parts\n  * Old Dominion\n  * onsemi\n  * Paccar\n  * Palo Alto Networks\n  * Paychex\n  * PayPal\n  * PDD Holdings\n  * PepsiCo\n  * Qualcomm\n  * Regeneron\n  * Roper Technologies\n  * Ross Stores\n  * Starbucks\n  * Supermicro\n  * Synopsys\n  * Take-Two Interactive\n  * T-Mobile US\n  * Tesla\n  * Texas Instruments\n  * Trade Desk\n  * Verisk\n  * Vertex\n  * Warner Bros. Discovery\n  * Workday\n  * Xcel Energy\n  * Zscaler   \n  \nhideAuthority control databases\n![\\\\\\\"Edit](\\\\\\\"//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-\nltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png\\\\\\\")  \n---  \nInternational|   * ISNI\n  * VIAF   \nNational|   * Germany\n  * United States\n  * Poland  * Vertex\n  * Warner Bros. Discovery\n  * Workday\n  * Xcel Energy\n  * Zscaler   \n  \nhideAuthority control databases\n![\\\\\\\"Edit](\\\\\\\"//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-\nltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png\\\\\\\")  \n---  \nInternational|   * ISNI\n  * VIAF   \nNational|   * Germany\n  * United States\n  * Poland",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    }
+]
+[
+    {
+        "subsidiaries": [
+            "YouTube",
+            "Google Fiber",
+            "Nest Labs",
+            "DoubleClick",
+            "Fitbit",
+            "Looker",
+            "Waze",
+            "Chronicle",
+            "DeepMind",
+            "GV",
+            "CapitalG",
+            "Verily",
+            "Waymo",
+            "Wing",
+            "Loon",
+            "Sidewalk Labs",
+            "Calico"
+        ],
+        "associated_domains": [
+            "youtube.com",
+            "googlefiber.net",
+            "nest.com",
+            "doubleclick.net",
+            "fitbit.com",
+            "looker.com",
+            "waze.com",
+            "chronicle.security",
+            "deepmind.com",
+            "gv.com",
+            "capitalg.com",
+            "verily.com",
+            "waymo.com",
+            "wing.com",
+            "loon.com",
+            "sidewalklabs.com",
+            "calicolabs.com"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "model_name": "Subsidiaries and Associated Domains Extractor",
+        "input_data": "https://www.investopedia.com/investing/companies-owned-by-google/",
+        "output_data": {
+            "subsidiaries": [],
+            "associated_domains": []
+        },
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Mandiant",
+            "Fitbit",
+            "Looker",
+            "Nest",
+            "Waze",
+            "DoubleClick",
+            "YouTube"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Google",
+            "YouTube",
+            "Nest",
+            "Waze",
+            "DoubleClick",
+            "Mandiant"
+        ],
+        "associated_domains": [
+            "search engine",
+            "advertising",
+            "hardware",
+            "software",
+            "cybersecurity"
+        ],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Looker",
+            "Nest",
+            "Waze",
+            "DoubleClick",
+            "YouTube"
+        ],
+        "associated_domains": [
+            "Google Cloud",
+            "Google Nest",
+            "Google Maps",
+            "Google Ads"
+        ]
+    },
+    {
+        "subsidiaries": [
+            "Mandiant"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Fitbit"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Looker"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "YouTube",
+            "Waze",
+            "Fitbit",
+            "DoubleClick",
+            "Mandiant"
+        ],
+        "associated_domains": [],
+        "error": false
+    },
+    {
+        "subsidiaries": [
+            "Mandiant",
+            "Motorola",
+            "Fitbit",
+            "Looker",
+            "Nest",
+            "Waze",
+            "DoubleClick",
+            "YouTube",
+            "Niantic Labs",
+            "Aalyria",
+            "Waymo"
+        ],
+        "associated_domains": [
+            "mandiant.com",
+            "motorola.com",
+            "fitbit.com",
+            "looker.com",
+            "nest.com",
+            "waze.com",
+            "doubleclick.com",
+            "youtube.com",
+            "nianticlabs.com",
+            "aalyria.com",
+            "waymo.com"
+        ],
+        "error": false
+    }
+]

@@ -1,0 +1,44 @@
+[LOG] 🚀 Crawling done for https://www.sec.gov/edgar/searchedgar/companysearch.html, success: True, time taken: 8.080297231674194 seconds
+[LOG] 🚀 Content extracted for https://www.sec.gov/edgar/searchedgar/companysearch.html, success: True, time taken: 0.0010023117065429688 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.sec.gov/edgar/searchedgar/companysearch.html, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.sec.gov/edgar/searchedgar/companysearch.html, time taken: 0.0010023117065429688 seconds.
+[LOG] 🚀 Crawling done for http://www.google.com/support/enterprise/static/gapps/docs/admin/en/nftf/multiple_domains/gapps_%20multiple_domains.pdf, success: True, time taken: 0.4927964210510254 seconds
+[LOG] 🚀 Content extracted for http://www.google.com/support/enterprise/static/gapps/docs/admin/en/nftf/multiple_domains/gapps_%20multiple_domains.pdf, success: True, time taken: 0.0 seconds
+[LOG] 🔥 Extracting semantic blocks for http://www.google.com/support/enterprise/static/gapps/docs/admin/en/nftf/multiple_domains/gapps_%20multiple_domains.pdf, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for http://www.google.com/support/enterprise/static/gapps/docs/admin/en/nftf/multiple_domains/gapps_%20multiple_domains.pdf, time taken: 0.0 seconds.
+[LOG] 🚀 Crawling done for https://support.google.com/a/answer/12099366?hl=en, success: True, time taken: 3.093352794647217 seconds
+[LOG] 🚀 Content extracted for https://support.google.com/a/answer/12099366?hl=en, success: True, time taken: 0.12247753143310547 seconds
+[LOG] 🔥 Extracting semantic blocks for https://support.google.com/a/answer/12099366?hl=en, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://support.google.com/a/answer/12099366?hl=en, time taken: 0.1275651454925537 seconds.
+[LOG] 🚀 Crawling done for https://cloud.google.com/resource-manager/docs/managing-multiple-orgs, success: True, time taken: 8.46585488319397 seconds
+[LOG] 🚀 Content extracted for https://cloud.google.com/resource-manager/docs/managing-multiple-orgs, success: True, time taken: 0.36771726608276367 seconds
+[LOG] 🔥 Extracting semantic blocks for https://cloud.google.com/resource-manager/docs/managing-multiple-orgs, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://cloud.google.com/resource-manager/docs/managing-multiple-orgs, time taken: 0.36771726608276367 seconds.
+[LOG] 🚀 Crawling done for https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=111944, success: True, time taken: 3.081847906112671 seconds
+[LOG] 🚀 Content extracted for https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=111944, success: True, time taken: 0.006087541580200195 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=111944, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=111944, time taken: 0.006087541580200195 seconds.
+[LOG] 🚀 Crawling done for https://www.reddit.com/r/degoogle/comments/u1tgjh/list_of_domains_owned_by_google/, success: True, time taken: 4.322102069854736 seconds
+[LOG] 🚀 Content extracted for https://www.reddit.com/r/degoogle/comments/u1tgjh/list_of_domains_owned_by_google/, success: True, time taken: 0.7901003360748291 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.reddit.com/r/degoogle/comments/u1tgjh/list_of_domains_owned_by_google/, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.reddit.com/r/degoogle/comments/u1tgjh/list_of_domains_owned_by_google/, time taken: 0.794546365737915 seconds.
+[LOG] 🚀 Crawling done for https://en.wikipedia.org/wiki/Google, success: True, time taken: 3.6781067848205566 seconds
+[LOG] 🚀 Content extracted for https://en.wikipedia.org/wiki/Google, success: True, time taken: 2.878833770751953 seconds
+[LOG] 🔥 Extracting semantic blocks for https://en.wikipedia.org/wiki/Google, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://en.wikipedia.org/wiki/Google, time taken: 2.893817663192749 seconds.
+[LOG] 🚀 Crawling done for https://icannwiki.org/Google, success: True, time taken: 4.128550052642822 seconds
+[LOG] 🚀 Content extracted for https://icannwiki.org/Google, success: True, time taken: 0.22063469886779785 seconds
+[LOG] 🔥 Extracting semantic blocks for https://icannwiki.org/Google, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://icannwiki.org/Google, time taken: 0.22063469886779785 seconds.
+[LOG] 🚀 Crawling done for https://www.crunchbase.com/organization/google, success: True, time taken: 4.189101934432983 seconds
+[LOG] 🚀 Content extracted for https://www.crunchbase.com/organization/google, success: True, time taken: 0.011308908462524414 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.crunchbase.com/organization/google, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.crunchbase.com/organization/google, time taken: 0.011308908462524414 seconds.
+[LOG] 🚀 Crawling done for https://www.google.com, success: True, time taken: 1.2777423858642578 seconds
+[LOG] 🚀 Content extracted for https://www.google.com, success: True, time taken: 0.045511484146118164 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.google.com, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.google.com, time taken: 0.04601144790649414 seconds.
+[LOG] 🚀 Crawling done for https://www.quora.com/What-are-the-companies-associated-with-google, success: True, time taken: 4.9028871059417725 seconds
+[LOG] 🚀 Content extracted for https://www.quora.com/What-are-the-companies-associated-with-google, success: True, time taken: 0.8578968048095703 seconds
+[LOG] 🔥 Extracting semantic blocks for https://www.quora.com/What-are-the-companies-associated-with-google, Strategy: NoExtractionStrategy
+[LOG] 🚀 Extraction done for https://www.quora.com/What-are-the-companies-associated-with-google, time taken: 0.8638970851898193 seconds.
