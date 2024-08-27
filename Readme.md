@@ -51,7 +51,7 @@ This repository contains a web scraping project that leverages large language mo
    ```
 
 4. Set up environment variables:
-   - Open the `.env` file and fill in the necessary environment variables:
+   - Create the `.env` file and fill in the necessary environment variables:
         ```
         TAVILY_API_KEY=********************* # change this to your Tavily API key
         PERPLEXITY_API_KEY=***************** # change this to your Perplexity API key
