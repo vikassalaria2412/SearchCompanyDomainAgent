@@ -35,14 +35,14 @@ This repository contains a web scraping project that leverages large language mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/company-search-subsidiaries-domain-agent.git
-   cd company-search-subsidiaries-domain-agent
+   git clone https://github.com/vikassalaria2412/SearchCompanyDomainAgent.git
+
    ```
 
 2. Create a virtual environment:
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   conda create -n agentenv python==3.11
+   conda activate   agentenv
    ```
 
 3. Install the dependencies:
@@ -52,6 +52,7 @@ This repository contains a web scraping project that leverages large language mo
 
 4. Set up environment variables:
    - Rename `.env.example` to `.env` and fill in the necessary environment variables.
+   
 
 5. Run the application:
    ```bash
