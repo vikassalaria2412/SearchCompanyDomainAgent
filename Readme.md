@@ -51,7 +51,12 @@ This repository contains a web scraping project that leverages large language mo
    ```
 
 4. Set up environment variables:
-   - Rename `.env.example` to `.env` and fill in the necessary environment variables.
+   -  `.env`: fill in the necessary environment variables.
+   TAVILY_API_KEY=********************* # change this to your Tavily API key
+   PERPLEXITY_API_KEY=***************** # change this to your Perplexity API key
+   OPENAI_API_KEY=********************* # change this to your OpenAI API key
+   WEB_CRAWL_URL_PROVIDER="openai/gpt-4o" 
+   OPENAI_MODEL="gpt-4o"
    
 
 5. Run the application:
